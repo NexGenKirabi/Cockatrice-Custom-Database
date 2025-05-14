@@ -46,20 +46,20 @@
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
-      <name>Tataru Taru</name>
-      <text>When Tataru Taru enters, you draw a card and target opponent may draw a card.
-Scions' Secretary — Whenever an opponent draws a card, if it isn't that player's turn, create a tapped Treasure token. This ability triggers only once each turn.</text>
-      <prop>
-        <colors>W</colors>
-        <type>Legendary Creature — Dwarf Advisor</type>
-        <maintype>Creature</maintype>
-        <cmc>2</cmc>
-        <manacost>1W</manacost>
-        <pt>0/3</pt>
-      </prop>
-      <set rarity="Rare" picURL="https://imgur.com/NHlSw3K.png">M5%~</set>
-      <tablerow>2</tablerow>
-    </card>
+		  <name>Tataru Taru</name>
+		   <text>When Tataru Taru enters, you draw a card and target opponent may draw a card.
+		Scions' Secretary — Whenever an opponent draws a card, if it isn't that player's turn, create a tapped Treasure token. This ability triggers only once each turn.</text>
+		  <prop>
+			 <colors>W</colors>
+        		<type>Legendary Creature — Dwarf Advisor</type>
+        		<maintype>Creature</maintype>
+        		<cmc>2</cmc>
+        		<manacost>1W</manacost>
+        		<pt>0/3</pt>
+		  </prop>
+		  <set rarity="rare" picurl="https://imgur.com/NHlSw3K.png">M5%</set>
+		  <tablerow>2</tablerow>
+	</card>
 	<card>
 		  <name>Tazri, Beacon of Unity</name>
 		   <text>This spell costs {1} less to cast for each creature in your party.
