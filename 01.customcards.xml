@@ -3,8 +3,8 @@
     <info>
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
-        <sourceUrl>https://mega.nz/file/hDZwhS7Y#N4hLeqEGC09uCDhzlqkNtFJ24s48wBDgpqLO0V88bsU</sourceUrl>
-        <sourceVersion>unknown</sourceVersion>
+        <sourceUrl>https://github.com/NexGenKirabi/Cockatrice-Custom-Database/blob/main/01.customcards.xml</sourceUrl>
+        <sourceVersion>1.0.1</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -12,7 +12,7 @@
 		  <longname>Mull to 5 into scoop any %</longname>
 		  <settype>Custom</settype>
 		  <releasedate>2025-05-14</releasedate>
-		<set>
+		</set>
   </sets>
   <cards>
 	<card>
@@ -30,6 +30,6 @@
 		  <set rarity="rare" picurl="https://mega.nz/file/5KxmDD5A#ITaljrtrvUiaF9pNhzSncCYYytXJsUrPcImqIDh5g8A">M5%</set>
 		  <related>Jellyfish Token</related>
 		  <tablerow>2</tablerow>
-	<card>
+	</card>
   </cards>
 </cockatrice_carddatabase>
