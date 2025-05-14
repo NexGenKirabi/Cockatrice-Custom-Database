@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
+    <info>
+        <author>NexGenKirabi (2025-05-14)</author>
+        <createdAt>2025-05-08T05:53:27Z</createdAt>
+        <sourceUrl>https://mega.nz/file/hDZwhS7Y#N4hLeqEGC09uCDhzlqkNtFJ24s48wBDgpqLO0V88bsU</sourceUrl>
+        <sourceVersion>unknown</sourceVersion>
+    </info>
+  <sets>
+		<set>
+		   <name>M5%</name>
+		  <longname>Mull to 5 into scoop any %</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2025-05-14</releasedate>
+		<set>
+  </sets>
+  <cards>
+	<card>
+		  <name>Cynette, Jelly Drover</name>
+		   <text>When Cynette enters or dies, create a 1/1 blue Jellyfish creature token with flying.
+		Creatures you control with flying get +1/+1.</text>
+		  <prop>
+			<colors>U</colors>
+			<type>Legendary Creature — Human Wizard</type>
+			<maintype>Creature</maintype>
+			<cmc>4</cmc>
+			<manacost>3U</manacost>
+			<pt>2/2</pt>
+		  </prop>
+		  <set rarity="rare" picurl="https://mega.nz/file/5KxmDD5A#ITaljrtrvUiaF9pNhzSncCYYytXJsUrPcImqIDh5g8A">M5%</set>
+		  <related>Jellyfish Token</related>
+		  <tablerow>2</tablerow>
+	<card>
+  </cards>
+</cockatrice_carddatabase>
