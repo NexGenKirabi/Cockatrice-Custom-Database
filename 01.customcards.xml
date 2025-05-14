@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://github.com/NexGenKirabi/Cockatrice-Custom-Database/blob/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>1.0.3</sourceVersion>
+        <sourceVersion>1.0.4</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -15,6 +15,20 @@
 		</set>
   </sets>
   <cards>
+	<card>
+		  <name>Displacer Kitten</name>
+		   <text>Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control.</text>
+		  <prop>
+			<colors>U</colors>
+			<type>Creature — Cat Beast</type>
+			<maintype>Creature</maintype>
+			<cmc>4</cmc>
+			<manacost>3U</manacost>
+			<pt>2/2</pt>
+		  </prop>
+		  <set rarity="rare" picurl="https://imgur.com/Zm3cPfa.png">M5%</set>
+		  <tablerow>2</tablerow>
+	</card>
 	<card>
 		  <name>Cynette, Jelly Drover</name>
 		   <text>When Cynette enters or dies, create a 1/1 blue Jellyfish creature token with flying.
