@@ -3,7 +3,7 @@
     <info>
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
-        <sourceUrl>https://github.com/NexGenKirabi/Cockatrice-Custom-Database/blob/main/01.customcards.xml</sourceUrl>
+        <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
         <sourceVersion>1.0.5</sourceVersion>
     </info>
   <sets>
