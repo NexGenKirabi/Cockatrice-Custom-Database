@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>1.0.6</sourceVersion>
+        <sourceVersion>1.1.0</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -62,6 +62,60 @@ Other creatures you control of the chosen type get +1/+1.</text>
 		  <related>Jellyfish Token</related>
 		  <tablerow>2</tablerow>
 	</card>
+<card>
+		  <name>Brigone, Soldier of Meletis</name>
+		   <text>Vigilance
+Heroic — Whenever you cast a spell that targets Brigone, put a +1/+1 counter on Brigone.
+{T}, Remove a +1/+1 counter from Brigone: Draw a card.</text>
+		  <prop>
+			<colors>W</colors>
+			<type>Legendary Creature — Human Soldier</type>
+			<maintype>Creature</maintype>
+			<cmc>2</cmc>
+			<manacost>1W</manacost>
+			<pt>2/2</pt>
+		  </prop>
+		  <set rarity="rare" picurl="https://imgur.com/gYEuONp">M5%</set>
+		  <tablerow>2</tablerow>
+	</card>
+	<card>
+		  <name>Smothering Tithe</name>
+		   <text>{T}: Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")</text>
+		  <prop>
+        		<type>Enchantment</type>
+        		<maintype>Enchantment</maintype>
+        		<cmc>4</cmc>
+        		<manacost>3W</manacost>
+		  </prop>
+		  <set rarity="rare" picurl="https://imgur.com/ozVBIQc/png">M5%</set>
+		  <tablerow>2</tablerow>
+	</card>
+	<card>
+		  <name>Temple Bell</name>
+		   <text>{T}: Each player draws a card.</text>
+		  <prop>
+        		<type>Artifact</type>
+        		<maintype>Artifact</maintype>
+        		<cmc>3</cmc>
+        		<manacost>3</manacost>
+		  </prop>
+		  <set rarity="rare" picurl="https://imgur.com/iSuALAD.png">M5%</set>
+		  <tablerow>2</tablerow>
+	</card>
+<card>
+		  <name>The Twelth Doctor</name>
+		   <text>The first spell you cast from anywhere other than your hand each turn has demonstrate. (When you cast that spell, you may copy it. If you do, choose an opponent to also copy it. A copy of a permanent spell becomes a token.)
+Whenever you copy a spell, put a +1/+1 counter on The Twelfth Doctor.</text>
+		  <prop>
+			<colors>UR</colors>
+			<type>Legendary Creature — Timelord Doctor</type>
+			<maintype>Creature</maintype>
+			<cmc>5</cmc>
+			<manacost>3UR</manacost>
+			<pt>4/4</pt>
+		  </prop>
+		  <set rarity="rare" picurl="https://imgur.com/7Ey2mGD.png">M5%</set>
+		  <tablerow>2</tablerow>
 	<card>
 		  <name>Tataru Taru</name>
 		   <text>When Tataru Taru enters, you draw a card and target opponent may draw a card.
@@ -75,6 +129,7 @@ Other creatures you control of the chosen type get +1/+1.</text>
         		<pt>0/3</pt>
 		  </prop>
 		  <set rarity="rare" picurl="https://imgur.com/NHlSw3K.png">M5%</set>
+		  <related>Treasure Token</related>
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
