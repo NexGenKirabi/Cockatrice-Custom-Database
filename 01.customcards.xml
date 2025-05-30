@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>1.1.9</sourceVersion>
+        <sourceVersion>1.1.11</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -30,6 +30,21 @@ Other creatures you control of the chosen type get +1/+1.</text>
 			<pt>6/6</pt>
 		  </prop>
 		  <set rarity="Mythic Rare" picurl="https://imgur.com/qkB0CFx.png">M5%</set>
+		  <tablerow>2</tablerow>
+	</card>
+	<card>
+		  <name>Clara Oswald</name>
+		   <text>Impossible Girl — If Clara Oswald is your commander, choose a color before the game begins. Clara Oswald is the chosen color.
+If a triggered ability of a Doctor you control triggers, that ability triggers an additional time.
+Doctor's companion (You can have two commanders if the other is the Doctor.)</text>
+		  <prop>
+			<type>Legendary Creature — Human Advisor</type>
+			<maintype>Creature</maintype>
+			<cmc>6</cmc>
+			<manacost>6</manacost>
+			<pt>2/6</pt>
+		  </prop>
+		  <set rarity="Rare" picurl="https://imgur.com/lDW4L1C.png">M5%</set>
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
