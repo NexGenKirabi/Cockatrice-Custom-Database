@@ -1,3 +1,4 @@
+$ git pull 01.customcards.xml
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
     <info>
