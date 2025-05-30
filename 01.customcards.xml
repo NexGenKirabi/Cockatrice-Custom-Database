@@ -134,6 +134,22 @@ Whenever you copy a spell, put a +1/+1 counter on The Twelfth Doctor.</text>
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
+		  <name>Reaper King</name>
+		   <text>({2/W} can be paid with any two mana or with {W}. This card's mana value is 10.)
+Other Scarecrow creatures you control get +1/+1.
+Whenever another Scarecrow you control enters, destroy target permanent.</text>
+		  <prop>
+			 <colors>WUBRG</colors>
+        		<type>Legendary Artifact Creature — Scarecrow</type>
+        		<maintype>Creature</maintype>
+        		<cmc>10</cmc>
+        		<manacost>({2/W}({2/U}({2/B}({2/R}({2/G}</manacost>
+        		<pt>6/6</pt>
+		  </prop>
+		  <set rarity="rare" picurl="https://imgur.com/trhacvF.png">M5%</set>
+		  <tablerow>2</tablerow>
+	</card>
+	<card>
 		  <name>Tazri, Beacon of Unity</name>
 		   <text>This spell costs {1} less to cast for each creature in your party.
 {2/U}{2/B}{2/R}{2/G}: Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, Wizard, and/or Ally cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.</text>
