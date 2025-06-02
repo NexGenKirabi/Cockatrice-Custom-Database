@@ -13,6 +13,13 @@
 		  <settype>Custom</settype>
 		  <releasedate>2025-05-14</releasedate>
 		</set>
+	  	
+		<set>
+		   <name>M5%A</name>
+		  <longname>Mull to 5 into scoop any %Alts</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2025-05-14</releasedate>
+		</set>
   </sets>
   <cards>
 	<card>
@@ -47,7 +54,7 @@ Other creatures you control of the chosen type get +1/+1.</text>
 			<manacost>7</manacost>
 			<pt>6/6</pt>
 		  </prop>
-		  <set rarity="Mythic Rare" num="0005" picurl="https://imgur.com/W0QSScE.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0005" picurl="https://imgur.com/W0QSScE.png">M5%A</set>
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
@@ -196,7 +203,7 @@ Whenever another Scarecrow you control enters, destroy target permanent.</text>
 			<manacost>4W</manacost>
 			<pt>4/6</pt>
 		  </prop>
-		  <set rarity="Mythic Rare" num="0004" picurl="https://imgur.com/ib1KSi9.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0004" picurl="https://imgur.com/ib1KSi9.png">M5%A</set>
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
