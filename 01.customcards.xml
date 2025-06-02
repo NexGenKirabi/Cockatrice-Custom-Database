@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>1.1.14</sourceVersion>
+        <sourceVersion>1.1.15</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -29,7 +29,7 @@ Other creatures you control of the chosen type get +1/+1.</text>
 			<manacost>7</manacost>
 			<pt>6/6</pt>
 		  </prop>
-		  <set rarity="Mythic Rare" picurl="https://imgur.com/xDDbjNC.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0001" picurl="https://imgur.com/xDDbjNC.png">M5%</set>
 		  <tablerow>2</tablerow>
 	</card>
 	<cards>
@@ -47,7 +47,7 @@ Other creatures you control of the chosen type get +1/+1.</text>
 			<manacost>7</manacost>
 			<pt>6/6</pt>
 		  </prop>
-		  <set rarity="https://imgur.com/W0QSScE.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0005" picurl="https://imgur.com/W0QSScE.png">M5%</set>
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
@@ -180,7 +180,7 @@ Whenever another Scarecrow you control enters, destroy target permanent.</text>
 			<manacost>4W</manacost>
 			<pt>4/6</pt>
 		  </prop>
-		  <set rarity="Mythic Rare" picurl="https://imgur.com/uBvWeH3.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0003" picurl="https://imgur.com/uBvWeH3.png">M5%</set>
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
@@ -196,7 +196,7 @@ Whenever another Scarecrow you control enters, destroy target permanent.</text>
 			<manacost>4W</manacost>
 			<pt>4/6</pt>
 		  </prop>
-		  <set rarity="Mythic Rare" picurl="https://imgur.com/ib1KSi9.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0004" picurl="https://imgur.com/ib1KSi9.png">M5%</set>
 		  <tablerow>2</tablerow>
 	</card>
 	<card>
@@ -211,7 +211,7 @@ Whenever another Scarecrow you control enters, destroy target permanent.</text>
         		<manacost>1W</manacost>
         		<pt>0/3</pt>
 		  </prop>
-		  <set rarity="rare" picurl="https://imgur.com/NHlSw3K.png">M5%</set>
+		  <set rarity="rare" num="0001" picurl="https://imgur.com/NHlSw3K.png">M5%</set>
 		  <related>Treasure Token</related>
 		  <tablerow>2</tablerow>
 	</card>
