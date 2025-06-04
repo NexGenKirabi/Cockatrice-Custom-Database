@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>1.1.18</sourceVersion>
+        <sourceVersion>2.1.18</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -29,168 +29,44 @@
     </card>
 	<card>
 		  <name>Clara Oswald</name>
-		   <text>Impossible Girl — If Clara Oswald is your commander, choose a color before the game begins. Clara Oswald is the chosen color.
-If a triggered ability of a Doctor you control triggers, that ability triggers an additional time.
-Doctor's companion (You can have two commanders if the other is the Doctor.)</text>
-		  <prop>
-			<type>Legendary Creature — Human Advisor</type>
-			<maintype>Creature</maintype>
-			<cmc>6</cmc>
-			<manacost>6</manacost>
-			<pt>2/6</pt>
-		  </prop>
 		  <set rarity="Rare" picurl="https://imgur.com/lDW4L1C.png">M5%</set>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>Displacer Kitten</name>
-		   <text>Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's control.</text>
-		  <prop>
-			<colors>U</colors>
-			<type>Creature — Cat Beast</type>
-			<maintype>Creature</maintype>
-			<cmc>4</cmc>
-			<manacost>3U</manacost>
-			<pt>2/2</pt>
-		  </prop>
 		  <set rarity="rare" picurl="https://imgur.com/Zm3cPfa.png">M5%</set>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>Cynette, Jelly Drover</name>
-		   <text>When Cynette enters or dies, create a 1/1 blue Jellyfish creature token with flying.
-		Creatures you control with flying get +1/+1.</text>
-		  <prop>
-			<colors>U</colors>
-			<type>Legendary Creature — Human Wizard</type>
-			<maintype>Creature</maintype>
-			<cmc>4</cmc>
-			<manacost>3U</manacost>
-			<pt>2/2</pt>
-		  </prop>
 		  <set rarity="rare" picurl="https://imgur.com/1tyadCJ.png">M5%</set>
-		  <related>Jellyfish Token</related>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>Brigone, Soldier of Meletis</name>
-		   <text>Vigilance
-Heroic — Whenever you cast a spell that targets Brigone, put a +1/+1 counter on Brigone.
-{T}, Remove a +1/+1 counter from Brigone: Draw a card.</text>
-		  <prop>
-			<colors>W</colors>
-			<type>Legendary Creature — Human Soldier</type>
-			<maintype>Creature</maintype>
-			<cmc>2</cmc>
-			<manacost>1W</manacost>
-			<pt>2/2</pt>
-		  </prop>
 		  <set rarity="rare" picurl="https://imgur.com/gYEuONp.png">M5%</set>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>Smothering Tithe</name>
-		   <text>{T}: Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, you create a Treasure token. (It's an artifact with "{T}, Sacrifice this token: Add one mana of any color.")</text>
-		  <prop>
-        		<type>Enchantment</type>
-        		<maintype>Enchantment</maintype>
-        		<cmc>4</cmc>
-        		<manacost>3W</manacost>
-		  </prop>
 		  <set rarity="rare" picurl="https://imgur.com/ozVBIQc.png">M5%</set>
-		  <related>Treasure Token</related>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>Temple Bell</name>
-		   <text>{T}: Each player draws a card.</text>
-		  <prop>
-        		<type>Artifact</type>
-        		<maintype>Artifact</maintype>
-        		<cmc>3</cmc>
-        		<manacost>3</manacost>
-		  </prop>
 		  <set rarity="rare" picurl="https://imgur.com/iSuALAD.png">M5%</set>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>The Twelfth Doctor</name>
-		   <text>The first spell you cast from anywhere other than your hand each turn has demonstrate. (When you cast that spell, you may copy it. If you do, choose an opponent to also copy it. A copy of a permanent spell becomes a token.)
-Whenever you copy a spell, put a +1/+1 counter on The Twelfth Doctor.</text>
-		  <prop>
-			<colors>UR</colors>
-			<type>Legendary Creature — Timelord Doctor</type>
-			<maintype>Creature</maintype>
-			<cmc>5</cmc>
-			<manacost>3UR</manacost>
-			<pt>4/4</pt>
-		  </prop>
 		  <set rarity="rare" picurl="https://imgur.com/7Ey2mGD.png">M5%</set>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>Reaper King</name>
-		   <text>({2/W} can be paid with any two mana or with {W}. This card's mana value is 10.)
-Other Scarecrow creatures you control get +1/+1.
-Whenever another Scarecrow you control enters, destroy target permanent.</text>
-		  <prop>
-			 <colors>WUBRG</colors>
-        		<type>Legendary Artifact Creature — Scarecrow</type>
-        		<maintype>Creature</maintype>
-        		<cmc>10</cmc>
-        		<manacost>({2/W}({2/U}({2/B}({2/R}({2/G}</manacost>
-        		<pt>6/6</pt>
-		  </prop>
 		  <set rarity="rare" picurl="https://imgur.com/trhacvF.png">M5%</set>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>Tazri, Beacon of Unity</name>
-		   <text>This spell costs {1} less to cast for each creature in your party.
-{2/U}{2/B}{2/R}{2/G}: Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, Wizard, and/or Ally cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.</text>
-		  <prop>
-			<colors>W</colors>
-			<type>Legendary Creature — Human Warrior</type>
-			<maintype>Creature</maintype>
-			<coloridentity>WUBRG</coloridentity>
-			<cmc>5</cmc>
-			<manacost>4W</manacost>
-			<pt>4/6</pt>
-		  </prop>
 		  <set rarity="Mythic Rare" num="0003" picurl="https://imgur.com/uBvWeH3.png">M5%</set>
-		  <tablerow>2</tablerow>
-	</card>
-	<card>
-		  <name>Tazri, Beacon of Unity</name>
-		   <text>This spell costs {1} less to cast for each creature in your party.
-{2/U}{2/B}{2/R}{2/G}: Look at the top six cards of your library. You may reveal up to two Cleric, Rogue, Warrior, Wizard, and/or Ally cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.</text>
-		  <prop>
-			<colors>W</colors>
-			<type>Legendary Creature — Human Warrior</type>
-			<maintype>Creature</maintype>
-			<coloridentity>WUBRG</coloridentity>
-			<cmc>5</cmc>
-			<manacost>4W</manacost>
-			<pt>4/6</pt>
-		  </prop>
 		  <set rarity="Mythic Rare" num="0004" picurl="https://imgur.com/ib1KSi9.png">M5%A</set>
-		  <tablerow>2</tablerow>
 	</card>
 	<card>
 		  <name>Tataru Taru</name>
-		   <text>When Tataru Taru enters, you draw a card and target opponent may draw a card.
-		Scions' Secretary — Whenever an opponent draws a card, if it isn't that player's turn, create a tapped Treasure token. This ability triggers only once each turn.</text>
-		  <prop>
-			 <colors>W</colors>
-        		<type>Legendary Creature — Dwarf Advisor</type>
-        		<maintype>Creature</maintype>
-        		<cmc>2</cmc>
-        		<manacost>1W</manacost>
-        		<pt>0/3</pt>
-		  </prop>
 		  <set rarity="rare" num="0001" picurl="https://imgur.com/NHlSw3K.png">M5%</set>
-		  <related>Treasure Token</related>
-		  <tablerow>2</tablerow>
 	</card>
   </cards>
 </cockatrice_carddatabase>
