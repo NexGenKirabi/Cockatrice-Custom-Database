@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>2.1.18</sourceVersion>
+        <sourceVersion>2.1.19</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -29,44 +29,44 @@
     </card>
 	<card>
 		  <name>Clara Oswald</name>
-		  <set rarity="Rare" picurl="https://imgur.com/lDW4L1C.png">M5%</set>
+		  <set rarity="Rare" uuid="M5%0020" picurl="https://imgur.com/lDW4L1C.png">M5%</set>
 	</card>
 	<card>
 		  <name>Displacer Kitten</name>
-		  <set rarity="rare" picurl="https://imgur.com/Zm3cPfa.png">M5%</set>
+		  <set rarity="rare" uuid="M5%0021" picurl="https://imgur.com/Zm3cPfa.png">M5%</set>
 	</card>
 	<card>
 		  <name>Cynette, Jelly Drover</name>
-		  <set rarity="rare" picurl="https://imgur.com/1tyadCJ.png">M5%</set>
+		  <set rarity="rare" uuid="M5%0022" picurl="https://imgur.com/1tyadCJ.png">M5%</set>
 	</card>
 	<card>
 		  <name>Brigone, Soldier of Meletis</name>
-		  <set rarity="rare" picurl="https://imgur.com/gYEuONp.png">M5%</set>
+		  <set rarity="rare" uuid="M5%0023" picurl="https://imgur.com/gYEuONp.png">M5%</set>
 	</card>
 	<card>
 		  <name>Smothering Tithe</name>
-		  <set rarity="rare" picurl="https://imgur.com/ozVBIQc.png">M5%</set>
+		  <set rarity="rare" uuid="M5%0024" picurl="https://imgur.com/ozVBIQc.png">M5%</set>
 	</card>
 	<card>
 		  <name>Temple Bell</name>
-		  <set rarity="rare" picurl="https://imgur.com/iSuALAD.png">M5%</set>
+		  <set rarity="rare" uuid="M5%0025" picurl="https://imgur.com/iSuALAD.png">M5%</set>
 	</card>
 	<card>
 		  <name>The Twelfth Doctor</name>
-		  <set rarity="rare" picurl="https://imgur.com/7Ey2mGD.png">M5%</set>
+		  <set rarity="rare" uuid="M5%0026" picurl="https://imgur.com/7Ey2mGD.png">M5%</set>
 	</card>
 	<card>
 		  <name>Reaper King</name>
-		  <set rarity="rare" picurl="https://imgur.com/trhacvF.png">M5%</set>
+		  <set rarity="rare" uuid="M5%0027" picurl="https://imgur.com/trhacvF.png">M5%</set>
 	</card>
 	<card>
 		  <name>Tazri, Beacon of Unity</name>
-		  <set rarity="Mythic Rare" num="0003" picurl="https://imgur.com/uBvWeH3.png">M5%</set>
-		  <set rarity="Mythic Rare" num="0004" picurl="https://imgur.com/ib1KSi9.png">M5%A</set>
+		  <set rarity="Mythic Rare" num="0003" uuid="M5%0003" picurl="https://imgur.com/uBvWeH3.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0004" uuid="M5%A0004" picurl="https://imgur.com/ib1KSi9.png">M5%A</set>
 	</card>
 	<card>
 		  <name>Tataru Taru</name>
-		  <set rarity="rare" num="0001" picurl="https://imgur.com/NHlSw3K.png">M5%</set>
+		  <set rarity="rare" num="0001" uuid="M5%0028" picurl="https://imgur.com/NHlSw3K.png">M5%</set>
 	</card>
   </cards>
 </cockatrice_carddatabase>
