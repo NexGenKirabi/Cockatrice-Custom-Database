@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>1.1.15</sourceVersion>
+        <sourceVersion>1.1.16</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -24,10 +24,10 @@
   <cards>
 	<card>
 		  <name>Morophon, the Boundless</name>
-		   <text>Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's controlChangeling (This card is every creature type.)
+		   <text>Changeling (This card is every creature type.)
 As Morophon enters, choose a creature type.
 Spells of the chosen type you cast cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.
-Other creatures you control of the chosen type get +1/+1.</text>
+Other creatures you control of the chosen type get +1/+1..</text>
 		  <prop>
 			<type>Legendary Creature — Shapeshifter</type>
 			<maintype>Creature</maintype>
@@ -41,7 +41,7 @@ Other creatures you control of the chosen type get +1/+1.</text>
 	</card>
 	<card>
 		  <name>Morophon, the Boundless</name>
-		   <text>Avoidance — Whenever you cast a noncreature spell, exile up to one target nonland permanent you control, then return that card to the battlefield under its owner's controlChangeling (This card is every creature type.)
+		   <text>Changeling (This card is every creature type.)
 As Morophon enters, choose a creature type.
 Spells of the chosen type you cast cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.
 Other creatures you control of the chosen type get +1/+1.</text>
