@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>1.1.16</sourceVersion>
+        <sourceVersion>1.1.17</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -22,40 +22,11 @@
 		</set>
   </sets>
   <cards>
-	<card>
-		  <name>Morophon, the Boundless</name>
-		   <text>Changeling (This card is every creature type.)
-As Morophon enters, choose a creature type.
-Spells of the chosen type you cast cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.
-Other creatures you control of the chosen type get +1/+1..</text>
-		  <prop>
-			<type>Legendary Creature — Shapeshifter</type>
-			<maintype>Creature</maintype>
-			<coloridentity>WUBRG</coloridentity>
-			<cmc>7</cmc>
-			<manacost>7</manacost>
-			<pt>6/6</pt>
-		  </prop>
-		  <set rarity="Mythic Rare" num="0001" picurl="https://imgur.com/xDDbjNC.png">M5%</set>
-		  <tablerow>2</tablerow>
-	</card>
-	<card>
-		  <name>Morophon, the Boundless</name>
-		   <text>Changeling (This card is every creature type.)
-As Morophon enters, choose a creature type.
-Spells of the chosen type you cast cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.
-Other creatures you control of the chosen type get +1/+1.</text>
-		  <prop>
-			<type>Legendary Creature — Shapeshifter</type>
-			<maintype>Creature</maintype>
-			<coloridentity>WUBRG</coloridentity>
-			<cmc>7</cmc>
-			<manacost>7</manacost>
-			<pt>6/6</pt>
-		  </prop>
-		  <set rarity="Mythic Rare" num="0005" picurl="https://imgur.com/W0QSScE.png">M5%A</set>
-		  <tablerow>2</tablerow>
-	</card>
+	    <card>
+          <name>Morophon, the Boundless</name>
+          <set rarity="Mythic Rare" num="0001" uuid="M5%A0001" picurl="https://test1.png">M5%</set>
+          <set rarity="Mythic Rare" num="0005" uuid="M5%A0005" picurl="https://test2.png">M5%A</set>
+    </card>
 	<card>
 		  <name>Clara Oswald</name>
 		   <text>Impossible Girl — If Clara Oswald is your commander, choose a color before the game begins. Clara Oswald is the chosen color.
