@@ -68,9 +68,53 @@
 		  <name>Tataru Taru</name>
 		  <set rarity="rare" num="0001" uuid="M5%0028" picurl="https://imgur.com/NHlSw3K.png">M5%</set>
 	</card>
-    <card>
+    	<card>
    <name>Vampiric Tutor</name>
 		  <set rarity="Mythic Rare" num="0011" uuid="M5%0029" picurl="https://i.imgur.com/IBnlTMb.png">M5%</set>
+	</card>
+	<card>
+   <name>Bloodline Pretender</name>
+		  <set rarity="Uncommon" num="0012" uuid="M5%0030" picurl="https://i.imgur.com/HApPtO2.png">M5%</set>
+	</card>
+	<card>
+   <name>Fire-Belly Changeling</name>
+		  <set rarity="Common" num="0013" uuid="M5%0031" picurl="https://i.imgur.com/bg2qm2D.png">M5%</set>
+	</card>
+	  <card>
+   <name>Mothdust Changeling</name>
+		  <set rarity="common" num="0014" uuid="M5%0032" picurl="https://i.imgur.com/iwfM59a.png">M5%</set>
+	</card>
+	<card>
+   <name>Taurean Mauler</name>
+		  <set rarity="Mythic Rare" num="0015" uuid="M5%0033" picurl="https://i.imgur.com/zhKsduL.png">M5%</set>
+	</card>
+	  <card>
+   <name>Roaming Throne</name>
+		  <set rarity="Common" num="0016" uuid="M5%0034" picurl="https://i.imgur.com/D5Q19c7.png">M5%</set>
+	</card>
+	<card>
+   <name>Metallic Mimic</name>
+		  <set rarity="Rare" num="0017" uuid="M5%0035" picurl="https://i.imgur.com/NSf8dZb.png">M5%</set>
+	</card>
+	    <card>
+   <name>Thieving Otter</name>
+		  <set rarity="Common" num="0018" uuid="M5%0036" picurl="https://i.imgur.com/UwKhTn6.png">M5%</set>
+	</card>
+	<card>
+   <name>Shapesharer</name>
+		  <set rarity="Rare" num="0019" uuid="M5%0037" picurl="https://i.imgur.com/8PvwK2j.png">M5%</set>
+	</card>
+	    <card>
+   <name>Universal Automaton</name>
+		  <set rarity="Common" num="0020" uuid="M5%0038" picurl="https://i.imgur.com/Ex4iJnw.png">M5%</set>
+	</card>
+	<card>
+   <name>Sorin of House Markov</name>
+		  <set rarity="Mythic Rare" num="0021" uuid="M5%0039" picurl="https://i.imgur.com/GuXhaFC.png">M5%</set>
+	</card>
+	  <card>
+   <name>Sorin,Ravenous Neonate</name>
+		  <set num="0022" uuid="M5%0040" picurl="https://i.imgur.com/7EDh5s1.png">M5%</set>
 	</card>
   </cards>
 </cockatrice_carddatabase>
