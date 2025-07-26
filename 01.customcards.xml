@@ -114,7 +114,7 @@
 	</card>
 	  <card>
    <name>Sorin, Ravenous Neonate</name>
-		  <set num="0022" uuid="M5%0040" picurl="https://i.imgur.com/7EDh5s1.png">M5%</set>
+		  <set rarity="mythic rare" num="0022" uuid="M5%0040" picurl="https://i.imgur.com/7EDh5s1.png">M5%</set>
 	</card>
   </cards>
 </cockatrice_carddatabase>
