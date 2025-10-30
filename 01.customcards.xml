@@ -347,11 +347,11 @@
 # BREAD Cards (Zombielord)
 	<card>
    <name>Ygra, Eater of All</name>
-		  <set rarity="Mythic Rare" num="1000" uuid="M5%1000" picurl="https://i.imgur.com/rlRDABK.png">M5%</set>
+		  <set rarity="Mythic Rare" num="1000" uuid="BREAD1000" picurl="https://i.imgur.com/rlRDABK.png">BREAD</set>
 	</card>
 	<card>
    <name>Damnation</name>
-		  <set rarity="Mythic Rare" num="1001" uuid="M5%1001" picurl="https://i.imgur.com/MoDO0WH.png">M5%</set>
+		  <set rarity="Mythic Rare" num="1001" uuid="BREAD1001" picurl="https://i.imgur.com/MoDO0WH.png">BREAD</set>
 	</card>
 
   </cards>
