@@ -305,11 +305,11 @@
 		  <set rarity="Mythic Rare" num="1009" uuid="M5%1009" picurl="https://i.imgur.com/e2T0qkp.png">M5%</set>
 	</card>
 	<card>
-   <name>Rhoda, Giest Avenger</name>
+   <name>Rhoda, Geist Avenger</name>
 		  <set rarity="Mythic Rare" num="1010" uuid="M5%1010" picurl="https://i.imgur.com/8xanGEO.png">M5%</set>
 	</card>
 	<card>
-   <name>Timin, Youthful Giest</name>
+   <name>Timin, Youthful Geist</name>
 		  <set rarity="Mythic Rare" num="1011" uuid="M5%1011" picurl="https://i.imgur.com/FStR3CU.png">M5%</set>
 	</card>
 	<card>
@@ -326,6 +326,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
