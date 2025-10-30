@@ -30,12 +30,12 @@
 	<card>
 		  <name>Tataru Taru</name>
 		  <set rarity="rare" num="0001" uuid="M5%001" picurl="https://i.imgur.com/gtm0eHL.png">M5%</set>
-		  <set rarity="rare" num="0001" uuid="M5%001" picurl="https://i.imgur.com/mgujt2v.png">M5%</set>
-		  <set rarity="rare" num="0001" uuid="M5%001" picurl="https://i.imgur.com/V1DqRzf.png">M5%</set>
+		  <set rarity="rare" num="0002" uuid="M5%002" picurl="https://i.imgur.com/mgujt2v.png">M5%</set>
+		  <set rarity="rare" num="0003" uuid="M5%003" picurl="https://i.imgur.com/V1DqRzf.png">M5%</set>
 	</card>
 	<card>
 		  <name>Tazri, Beacon of Unity</name>
-		  <set rarity="Mythic Rare" num="0003" uuid="M5%0003" picurl="https://imgur.com/uBvWeH3.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0004" uuid="M5%0004" picurl="https://imgur.com/uBvWeH3.png">M5%</set>
 		  <set rarity="Mythic Rare" num="0004" uuid="M5%A0004" picurl="https://imgur.com/ib1KSi9.png">M5%A</set>
 	</card>
 	<card>
@@ -328,6 +328,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
