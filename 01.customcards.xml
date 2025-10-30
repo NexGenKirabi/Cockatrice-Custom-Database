@@ -139,7 +139,7 @@
 	</card>
 	<card>
 		  <name>Smothering Tithe</name>
-		   <set rarity="rare" num=0004 uuid="OTHER0004" picurl="https://imgur.com/ozVBIQc.png">OTHER</set>
+		   <set rarity="rare" num="0004" uuid="OTHER0004" picurl="https://imgur.com/ozVBIQc.png">OTHER</set>
 	</card>
 	<card>
    <name>Tom Bombadil</name>
