@@ -13,15 +13,16 @@
 		  <settype>Custom</settype>
 		  <releasedate>2025-05-14</releasedate>
 		</set>
-# NexGenKirabi's Cards
+
+# Internet Proxy Card Set
 	<set>
-		   <name>NGK*</name>
-		  <longname>Kirabi's Card Stash</longname>
+		   <name>OTHER</name>
+		  <longname>Proxies We Found on the Internet</longname>
 		  <settype>Custom</settype>
 		  <releasedate>2025-10-30</releasedate>
 		</set>
 
-# Zombie's Cards
+# Zombie's Card Set
 	  <set>
 		   <name>BREAD</name>
 		  <longname>Capybara</longname>
@@ -29,7 +30,7 @@
 		  <releasedate>2025-10-30</releasedate>
 		</set>
 
-# Lance's Cards
+# Lance's Card Set
 		<set>
 		   <name>UMA*</name>
 		  <longname>Umamasume Cards</longname>
