@@ -13,14 +13,23 @@
 		  <settype>Custom</settype>
 		  <releasedate>2025-05-14</releasedate>
 		</set>
-#Zombie's Cards
+# NexGenKirabi's Cards
+	<set>
+		   <name>NGK</name>
+		  <longname>Kirabi's Card Stash%</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2025-10-30</releasedate>
+		</set>
+
+# Zombie's Cards
 	  <set>
 		   <name>BREAD</name>
 		  <longname>Capybara</longname>
 		  <settype>Custom</settype>
 		  <releasedate>2025-10-30</releasedate>
 		</set>
-#Lance's Cards
+
+# Lance's Cards
 		<set>
 		   <name>UMA</name>
 		  <longname>Umamasume Cards</longname>
