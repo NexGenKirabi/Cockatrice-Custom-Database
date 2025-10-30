@@ -127,19 +127,19 @@
 # Other Cards (From the internet)
 	<card>
 		  <name>Displacer Kitten</name>
-		  <set rarity="rare" uuid="OTHER0001" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
+		  <set rarity="rare" num="0001" uuid="OTHER0001" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
 	</card>
 	<card>
 		  <name>Cynette, Jelly Drover</name>
-		  <set rarity="rare" uuid="OTHER0002" picurl="https://imgur.com/1tyadCJ.png">OTHER</set>
+		  <set rarity="rare" num="0002" uuid="OTHER0002" picurl="https://imgur.com/1tyadCJ.png">OTHER</set>
 	</card>
 	<card>
 		  <name>Brigone, Soldier of Meletis</name>
-		  <set rarity="rare" uuid="OTHER0003" picurl="https://imgur.com/gYEuONp.png">OTHER</set>
+		  <set rarity="rare" num="0003" uuid="OTHER0003" picurl="https://imgur.com/gYEuONp.png">OTHER</set>
 	</card>
 	<card>
 		  <name>Smothering Tithe</name>
-		  <set rarity="rare" uuid="OTHER0004" picurl="https://imgur.com/ozVBIQc.png">OTHER</set>
+		   <set rarity="rare" num=0004 uuid="OTHER0004" picurl="https://imgur.com/ozVBIQc.png">OTHER</set>
 	</card>
 	<card>
    <name>Tom Bombadil</name>
