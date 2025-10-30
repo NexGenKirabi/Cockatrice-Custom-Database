@@ -277,10 +277,6 @@
 		  <set rarity="Mythic Rare" num="1002" uuid="M5%1002" picurl="https://i.imgur.com/OZMQXlw.jpeg">M5%</set>
 	</card>
 	<card>
-   <name>Tom Bombadil</name>
-		  <set rarity="Mythic Rare" num="1002" uuid="M5%1002" picurl="https://i.imgur.com/OZMQXlw.jpeg">M5%</set>
-	</card>
-	<card>
    <name>Cyclonic Rift</name>
 		  <set rarity="Mythic Rare" num="1003" uuid="M5%1003" picurl="https://i.imgur.com/YybJfuV.png">M5%</set>
 	</card>
@@ -324,8 +320,13 @@
    <name>Rhystic Study</name>
 		  <set rarity="Mythic Rare" num="1013" uuid="M5%1013" picurl="https://i.imgur.com/W4mnzT3.png">M5%</set>
 	</card>
+	<card>
+   <name>Doubling Season</name>
+		  <set rarity="Mythic Rare" num="1014" uuid="M5%1014" picurl="https://i.imgur.com/O68sYip.png">M5%</set>
+	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
