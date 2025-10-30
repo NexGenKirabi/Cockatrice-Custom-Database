@@ -264,5 +264,17 @@
    <name>Exalted Sunborn</name>
 		  <set rarity="Mythic Rare" num="0136" uuid="M5%0077" picurl="https://i.imgur.com/mKs8vQT.png">M5%</set>
 	</card>
+	<card>
+   <name>Ygra, Eater of All</name>
+		  <set rarity="Mythic Rare" num="1000" uuid="M5%1000" picurl="https://imgur.com/a/dYwKC4W#rlRDABK.png">M5%</set>
+	</card>
+	<card>
+   <name>Damnation</name>
+		  <set rarity="Mythic Rare" num="1001" uuid="M5%1001" picurl="https://imgur.com/a/dYwKC4W#MoDO0WH.png">M5%</set>
+	</card>
+	<card>
+   <name>Tom Bombadil</name>
+		  <set rarity="Mythic Rare" num="1002" uuid="M5%1002" picurl="https://imgur.com/a/dYwKC4W#OZMQXlw.png">M5%</set>
+	</card>
   </cards>
 </cockatrice_carddatabase>
