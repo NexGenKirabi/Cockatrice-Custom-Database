@@ -20,6 +20,12 @@
 		  <settype>Custom</settype>
 		  <releasedate>2025-05-14</releasedate>
 		</set>
+	  	<set>
+		   <name>BREAD</name>
+		  <longname>Capybara</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2025-10-30</releasedate>
+		</set>
   </sets>
   <cards>
 	<card>
@@ -328,6 +334,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
