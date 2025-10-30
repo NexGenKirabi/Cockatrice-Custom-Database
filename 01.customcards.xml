@@ -26,6 +26,12 @@
 		  <settype>Custom</settype>
 		  <releasedate>2025-10-30</releasedate>
 		</set>
+			<set>
+		   <name>UMA</name>
+		  <longname>Umamasume Cards</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2025-10-30</releasedate>
+		</set>
   </sets>
   <cards>
 	<card>
