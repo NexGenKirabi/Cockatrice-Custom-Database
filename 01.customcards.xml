@@ -37,6 +37,7 @@
 		  <releasedate>2025-10-30</releasedate>
 		</set>
   </sets>
+	
   <cards>
 	<card>
 		  <name>Tataru Taru</name>
@@ -136,143 +137,143 @@
 	</card>
 	<card>
    <name>Mondrak, Glory Dominus</name>
-		  <set rarity="Mythic Rare" num="0100" uuid="UMA*0100" picurl="https://i.imgur.com/WnfZMAM.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0100" uuid="UMA*0100" picurl="https://i.imgur.com/WnfZMAM.png">UMA*</set>
 	</card>
 	<card>
    <name>Plague Mare</name>
-		  <set rarity="Mythic Rare" num="0101" uuid="UMA*0101" picurl="https://i.imgur.com/p6rvsSy.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0101" uuid="UMA*0101" picurl="https://i.imgur.com/p6rvsSy.png">UMA*</set>
 	</card>
 	<card>
    <name>Enduring Innocence</name>
-		  <set rarity="Mythic Rare" num="0102" uuid="UMA*0102" picurl="https://i.imgur.com/eBjQYcc.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0102" uuid="UMA*0102" picurl="https://i.imgur.com/eBjQYcc.png">UMA*</set>
 	</card>
 	<card>
    <name>Wedding Ring</name>
-		  <set rarity="Mythic Rare" num="0103" uuid="UMA*0103" picurl="https://i.imgur.com/nNfiRgP.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0103" uuid="UMA*0103" picurl="https://i.imgur.com/nNfiRgP.png">UMA*</set>
 	</card>
 	<card>
    <name>Vampiric Tutor</name>
-		  <set rarity="Mythic Rare" num="0104" uuid="UMA*0104" picurl="https://i.imgur.com/f0iBEJV.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0104" uuid="UMA*0104" picurl="https://i.imgur.com/f0iBEJV.png">UMA*</set>
 	</card>
 	<card>
    <name>Ojer Taq, Deepest Foundation</name>
-		  <set rarity="Mythic Rare" num="0105" uuid="UMA*0105" picurl="https://i.imgur.com/4VYBCGv.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0105" uuid="UMA*0105" picurl="https://i.imgur.com/4VYBCGv.png">UMA*</set>
 	</card>
 	<card>
    <name>Cottontail Caretaker</name>
-		  <set rarity="Mythic Rare" num="0106" uuid="UMA*0106" picurl="https://i.imgur.com/MJE3Gun.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0106" uuid="UMA*0106" picurl="https://i.imgur.com/MJE3Gun.png">UMA*</set>
 	</card>
 	<card>
    <name>Dark Ritual</name>
-		  <set rarity="Mythic Rare" num="0107" uuid="UMA*0107" picurl="https://i.imgur.com/lEN9AgV.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0107" uuid="UMA*0107" picurl="https://i.imgur.com/lEN9AgV.png">UMA*</set>
 	</card>
 	<card>
    <name>Crested Sunmare</name>
-		  <set rarity="Mythic Rare" num="0108" uuid="UMA*0108" picurl="https://i.imgur.com/Po7AkFO.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0108" uuid="UMA*0108" picurl="https://i.imgur.com/Po7AkFO.png">UMA*</set>
 	</card>
 	<card>
    <name>Guardian Sunmare</name>
-		  <set rarity="Mythic Rare" num="0109" uuid="UMA*0109" picurl="https://i.imgur.com/QuBmf2J.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0109" uuid="UMA*0109" picurl="https://i.imgur.com/QuBmf2J.png">UMA*</set>
 	</card>
 	<card>
    <name>Blade of Selves</name>
-		  <set rarity="Mythic Rare" num="0110" uuid="UMA*0110" picurl="https://i.imgur.com/czBCmWN.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0110" uuid="UMA*0110" picurl="https://i.imgur.com/czBCmWN.png">UMA*</set>
 	</card>
 	<card>
    <name>Bill the Pony</name>
-		  <set rarity="Mythic Rare" num="0111" uuid="UMA*0111" picurl="https://i.imgur.com/YomaSMp.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0111" uuid="UMA*0111" picurl="https://i.imgur.com/YomaSMp.png">UMA*</set>
 	</card>
 	<card>
    <name>Nyxborn Unicorn</name>
-		  <set rarity="Mythic Rare" num="0112" uuid="UMA*0112" picurl="https://i.imgur.com/81e0aM1.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0112" uuid="UMA*0112" picurl="https://i.imgur.com/81e0aM1.png">UMA*</set>
 	</card>
 	<card>
    <name>Opaline Unicorn</name>
-		  <set rarity="Mythic Rare" num="0113" uuid="UMA*0113" picurl="https://i.imgur.com/qP5eQ3o.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0113" uuid="UMA*0113" picurl="https://i.imgur.com/qP5eQ3o.png">UMA*</set>
 	</card>
 	<card>
    <name>Keleth, Sunmane Familiar</name>
-		  <set rarity="Mythic Rare" num="0114" uuid="UMA*0114" picurl="https://i.imgur.com/67THrtP.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0114" uuid="UMA*0114" picurl="https://i.imgur.com/67THrtP.png">UMA*</set>
 	</card>
 	<card>
    <name>Dusk Charger</name>
-		  <set rarity="Mythic Rare" num="0115" uuid="UMA*0115" picurl="https://i.imgur.com/9T0htK1.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0115" uuid="UMA*0115" picurl="https://i.imgur.com/9T0htK1.png">UMA*</set>
 	</card>
 	<card>
    <name>Shield Mare</name>
-		  <set rarity="Mythic Rare" num="0116" uuid="UMA*0116" picurl="https://i.imgur.com/l74urdY.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0116" uuid="UMA*0116" picurl="https://i.imgur.com/l74urdY.png">UMA*</set>
 	</card>
 	<card>
    <name>Thurid, Mare of Destiny</name>
-		  <set rarity="Mythic Rare" num="0117" uuid="UMA*0117" picurl="https://i.imgur.com/qBwwVRk.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0117" uuid="UMA*0117" picurl="https://i.imgur.com/qBwwVRk.png">UMA*</set>
 	</card>
 	<card>
    <name>Armored Warhorse</name>
-		  <set rarity="Mythic Rare" num="0118" uuid="UMA*0118" picurl="https://i.imgur.com/yibbIYv.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0118" uuid="UMA*0118" picurl="https://i.imgur.com/yibbIYv.png">UMA*</set>
 	</card>
 	<card>
    <name>Mirror Box</name>
-		  <set rarity="Mythic Rare" num="0119" uuid="UMA*0119" picurl="https://i.imgur.com/QanBuV2.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0119" uuid="UMA*0119" picurl="https://i.imgur.com/QanBuV2.png">UMA*</set>
 	</card>
 	<card>
    <name>Luminarch Aspirant</name>
-		  <set rarity="Mythic Rare" num="0120" uuid="UMA*0120" picurl="https://i.imgur.com/DbJyuta.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0120" uuid="UMA*0120" picurl="https://i.imgur.com/DbJyuta.png">UMA*</set>
 	</card>
 	<card>
    <name>Dedicated Dollmaker</name>
-		  <set rarity="Mythic Rare" num="0121" uuid="UMA*0121" picurl="https://i.imgur.com/ddrueEl.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0121" uuid="UMA*0121" picurl="https://i.imgur.com/ddrueEl.png">UMA*</set>
 	</card>
 	<card>
    <name>Grim Tutor</name>
-		  <set rarity="Mythic Rare" num="0122" uuid="UMA*0122" picurl="https://i.imgur.com/vxVfRm4.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0122" uuid="UMA*0122" picurl="https://i.imgur.com/vxVfRm4.png">UMA*</set>
 	</card>
 	<card>
    <name>Smothering Tithe</name>
-		  <set rarity="Mythic Rare" num="0123" uuid="UMA*0123" picurl="https://i.imgur.com/Uf0ylYo.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0123" uuid="UMA*0123" picurl="https://i.imgur.com/Uf0ylYo.png">UMA*</set>
 	</card>
 	<card>
    <name>Inspiring Paladin</name>
-		  <set rarity="Mythic Rare" num="0124" uuid="UMA*0124" picurl="https://i.imgur.com/Hq15nWk.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0124" uuid="UMA*0124" picurl="https://i.imgur.com/Hq15nWk.png">UMA*</set>
 	</card>
 	<card>
    <name>Bender's Waterskin</name>
-		  <set rarity="Mythic Rare" num="0125" uuid="UMA*0125" picurl="https://i.imgur.com/oqK6X1y.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0125" uuid="UMA*0125" picurl="https://i.imgur.com/oqK6X1y.png">UMA*</set>
 	</card>
 	<card>
    <name>Loyal Unicorn</name>
-		  <set rarity="Mythic Rare" num="0126" uuid="UMA*0126" picurl="https://i.imgur.com/yOqAX8k.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0126" uuid="UMA*0126" picurl="https://i.imgur.com/yOqAX8k.png">UMA*</set>
 	</card>
 	<card>
    <name>Inspiring Unicorn</name>
-		  <set rarity="Mythic Rare" num="0127" uuid="UMA*0127" picurl="https://i.imgur.com/OS9Dw6b.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0127" uuid="UMA*0127" picurl="https://i.imgur.com/OS9Dw6b.png">UMA*</set>
 	</card>
 	<card>
    <name>Ocelot Pride</name>
-		  <set rarity="Mythic Rare" num="0128" uuid="UMA*0128" picurl="https://i.imgur.com/WqAkqYJ.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0128" uuid="UMA*0128" picurl="https://i.imgur.com/WqAkqYJ.png">UMA*</set>
 	</card>
 	<card>
    <name>Haliya, Guided by Light</name>
-		  <set rarity="Mythic Rare" num="0129" uuid="UMA*0129" picurl="https://i.imgur.com/Pd88uu6.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0129" uuid="UMA*0129" picurl="https://i.imgur.com/Pd88uu6.png">UMA*</set>
 	</card>
 	<card>
    <name>Diamond Mare</name>
-		  <set rarity="Mythic Rare" num="0130" uuid="UMA*0130" picurl="https://i.imgur.com/aoU0KBd.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0130" uuid="UMA*0130" picurl="https://i.imgur.com/aoU0KBd.png">UMA*</set>
 	</card>
 	<card>
    <name>Loran of the Third Path</name>
-		  <set rarity="Mythic Rare" num="0131" uuid="UMA*0131" picurl="https://i.imgur.com/1v9duaN.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0131" uuid="UMA*0131" picurl="https://i.imgur.com/1v9duaN.png">UMA*</set>
 	</card>
 	<card>
    <name>Arcane Signet</name>
-		  <set rarity="Mythic Rare" num="0132" uuid="UMA*0132" picurl="https://i.imgur.com/1tWescf.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0132" uuid="UMA*0132" picurl="https://i.imgur.com/1tWescf.png">UMA*</set>
 	</card>
 	<card>
    <name>Elder Arthur Maxson</name>
-		  <set rarity="Mythic Rare" num="0133" uuid="UMA*0133" picurl="https://i.imgur.com/TEsLrGP.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0133" uuid="UMA*0133" picurl="https://i.imgur.com/TEsLrGP.png">UMA*</set>
 	</card>
 	<card>
    <name>Elspeth, Storm Slayer</name>
-		  <set rarity="Mythic Rare" num="0134" uuid="UMA*0134" picurl="https://i.imgur.com/ZQuLXBm.png">UMA</set>
+		  <set rarity="Mythic Rare" num="0134" uuid="UMA*0134" picurl="https://i.imgur.com/ZQuLXBm.png">UMA*</set>
 	</card>
 	<card>
    <name>Steadfast Unicorn</name>
@@ -344,6 +345,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
