@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>2.3.1</sourceVersion>
+        <sourceVersion>3.0.0</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -16,7 +16,7 @@
 # NexGenKirabi's Cards
 	<set>
 		   <name>NGK</name>
-		  <longname>Kirabi's Card Stash%</longname>
+		  <longname>Kirabi's Card Stash</longname>
 		  <settype>Custom</settype>
 		  <releasedate>2025-10-30</releasedate>
 		</set>
