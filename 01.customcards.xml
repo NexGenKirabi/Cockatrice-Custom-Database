@@ -4,7 +4,7 @@
         <author>NexGenKirabi (2025-05-14)</author>
         <createdAt>2025-05-08T05:53:27Z</createdAt>
         <sourceUrl>https://raw.githubusercontent.com/NexGenKirabi/Cockatrice-Custom-Database/refs/heads/main/01.customcards.xml</sourceUrl>
-        <sourceVersion>2.2.1</sourceVersion>
+        <sourceVersion>2.2.0</sourceVersion>
     </info>
   <sets>
 		<set>
@@ -322,10 +322,11 @@
 	</card>
 	<card>
    <name>Rhystic Study</name>
-		  <set rarity="Mythic Rare" num="1010" uuid="M5%1010" picurl="https://i.imgur.com/W4mnzT3.png">M5%</set>
+		  <set rarity="Mythic Rare" num="1013" uuid="M5%1013" picurl="https://i.imgur.com/W4mnzT3.png">M5%</set>
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
