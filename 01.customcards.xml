@@ -276,7 +276,56 @@
    <name>Tom Bombadil</name>
 		  <set rarity="Mythic Rare" num="1002" uuid="M5%1002" picurl="https://i.imgur.com/OZMQXlw.jpeg">M5%</set>
 	</card>
+	<card>
+   <name>Tom Bombadil</name>
+		  <set rarity="Mythic Rare" num="1002" uuid="M5%1002" picurl="https://i.imgur.com/OZMQXlw.jpeg">M5%</set>
+	</card>
+	<card>
+   <name>Cyclonic Rift</name>
+		  <set rarity="Mythic Rare" num="1003" uuid="M5%1003" picurl="https://i.imgur.com/YybJfuV.png">M5%</set>
+	</card>
+	<card>
+   <name>Captain America, First Avenger</name>
+		  <set rarity="Mythic Rare" num="1004" uuid="M5%1004" picurl="https://i.imgur.com/x961G6Z.png">M5%</set>
+	</card>
+	<card>
+   <name>Dark Ritual</name>
+		  <set rarity="Mythic Rare" num="1005" uuid="M5%1005" picurl="https://i.imgur.com/y7F0KPm.png">M5%</set>
+	</card>
+	<card>
+   <name>Exploration</name>
+		  <set rarity="Mythic Rare" num="1006" uuid="M5%1006" picurl="https://i.imgur.com/PzVrQ5o.png">M5%</set>
+	</card>
+	<card>
+   <name>The Ozolith</name>
+		  <set rarity="Mythic Rare" num="1007" uuid="M5%1007" picurl="https://i.imgur.com/AFQqvVs.png">M5%</set>
+	</card>
+	<card>
+   <name>Urza's Saga</name>
+		  <set rarity="Mythic Rare" num="1008" uuid="M5%1008" picurl="https://i.imgur.com/VsSqZFA.png">M5%</set>
+	</card>
+	<card>
+   <name>Urborg, Tomb of Yawgmoth</name>
+		  <set rarity="Mythic Rare" num="1009" uuid="M5%1009" picurl="https://i.imgur.com/e2T0qkp.png">M5%</set>
+	</card>
+	<card>
+   <name>Rhoda, Giest Avenger</name>
+		  <set rarity="Mythic Rare" num="1010" uuid="M5%1010" picurl="https://i.imgur.com/8xanGEO.png">M5%</set>
+	</card>
+	<card>
+   <name>Timin, Youthful Giest</name>
+		  <set rarity="Mythic Rare" num="1011" uuid="M5%1011" picurl="https://i.imgur.com/FStR3CU.png">M5%</set>
+	</card>
+	<card>
+   <name>Leir, Disciple of the Drowned</name>
+		  <set rarity="Mythic Rare" num="1012" uuid="M5%1012" picurl="https://i.imgur.com/ZnWefco.png">M5%</set>
+	</card>
+	<card>
+   <name>Rhystic Study</name>
+		  <set rarity="Mythic Rare" num="1010" uuid="M5%1010" picurl="https://i.imgur.com/W4mnzT3.png">M5%</set>
+	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
