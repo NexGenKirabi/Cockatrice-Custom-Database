@@ -99,7 +99,7 @@
 		  <name>Clara Oswald</name>
 		  <set rarity="Rare" uuid="M5%0020" picurl="https://imgur.com/lDW4L1C.png">M5%</set>
 	</card>
-<card>
+	<card>
 		  <name>Temple Bell</name>
 		  <set rarity="rare" uuid="M5%0025" picurl="https://imgur.com/iSuALAD.png">M5%</set>
 	</card>
@@ -127,71 +127,71 @@
 # Other Cards (From the internet)
 	<card>
 		  <name>Displacer Kitten</name>
-		  <set rarity="rare" uuid="M5%0021" picurl="https://imgur.com/Zm3cPfa.png">M5%</set>
+		  <set rarity="rare" uuid="OTHER0001" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
 	</card>
 	<card>
 		  <name>Cynette, Jelly Drover</name>
-		  <set rarity="rare" uuid="M5%0022" picurl="https://imgur.com/1tyadCJ.png">M5%</set>
+		  <set rarity="rare" uuid="OTHER0002" picurl="https://imgur.com/1tyadCJ.png">OTHER</set>
 	</card>
 	<card>
 		  <name>Brigone, Soldier of Meletis</name>
-		  <set rarity="rare" uuid="M5%0023" picurl="https://imgur.com/gYEuONp.png">M5%</set>
+		  <set rarity="rare" uuid="OTHER0003" picurl="https://imgur.com/gYEuONp.png">OTHER</set>
 	</card>
 	<card>
 		  <name>Smothering Tithe</name>
-		  <set rarity="rare" uuid="M5%0024" picurl="https://imgur.com/ozVBIQc.png">M5%</set>
+		  <set rarity="rare" uuid="OTHER0004" picurl="https://imgur.com/ozVBIQc.png">OTHER</set>
 	</card>
 	<card>
    <name>Tom Bombadil</name>
-		  <set rarity="Mythic Rare" num="1002" uuid="M5%1002" picurl="https://i.imgur.com/OZMQXlw.jpeg">M5%</set>
+		  <set rarity="Mythic Rare" num="0005" uuid="OTHER0005" picurl="https://i.imgur.com/OZMQXlw.jpeg">OTHER</set>
 	</card>
 	<card>
    <name>Cyclonic Rift</name>
-		  <set rarity="Mythic Rare" num="1003" uuid="M5%1003" picurl="https://i.imgur.com/YybJfuV.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0006" uuid="OTHER0006" picurl="https://i.imgur.com/YybJfuV.png">OTHER</set>
 	</card>
 	<card>
    <name>Captain America, First Avenger</name>
-		  <set rarity="Mythic Rare" num="1004" uuid="M5%1004" picurl="https://i.imgur.com/x961G6Z.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0007" uuid="OTHER0007" picurl="https://i.imgur.com/x961G6Z.png">OTHER</set>
 	</card>
 	<card>
    <name>Dark Ritual</name>
-		  <set rarity="Mythic Rare" num="1005" uuid="M5%1005" picurl="https://i.imgur.com/y7F0KPm.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0008" uuid="OTHER0008" picurl="https://i.imgur.com/y7F0KPm.png">OTHER</set>
 	</card>
 	<card>
    <name>Exploration</name>
-		  <set rarity="Mythic Rare" num="1006" uuid="M5%1006" picurl="https://i.imgur.com/PzVrQ5o.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0009" uuid="OTHER0009" picurl="https://i.imgur.com/PzVrQ5o.png">OTHER</set>
 	</card>
 	<card>
    <name>The Ozolith</name>
-		  <set rarity="Mythic Rare" num="1007" uuid="M5%1007" picurl="https://i.imgur.com/AFQqvVs.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0010" uuid="OTHER0010" picurl="https://i.imgur.com/AFQqvVs.png">OTHER</set>
 	</card>
 	<card>
    <name>Urza's Saga</name>
-		  <set rarity="Mythic Rare" num="1008" uuid="M5%1008" picurl="https://i.imgur.com/VsSqZFA.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0011" uuid="OTHER0011" picurl="https://i.imgur.com/VsSqZFA.png">OTHER</set>
 	</card>
 	<card>
    <name>Urborg, Tomb of Yawgmoth</name>
-		  <set rarity="Mythic Rare" num="1009" uuid="M5%1009" picurl="https://i.imgur.com/e2T0qkp.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0012" uuid="OTHER0012" picurl="https://i.imgur.com/e2T0qkp.png">OTHER</set>
 	</card>
 	<card>
    <name>Rhoda, Geist Avenger</name>
-		  <set rarity="Mythic Rare" num="1010" uuid="M5%1010" picurl="https://i.imgur.com/8xanGEO.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0013" uuid="OTHER0013" picurl="https://i.imgur.com/8xanGEO.png">OTHER</set>
 	</card>
 	<card>
    <name>Timin, Youthful Geist</name>
-		  <set rarity="Mythic Rare" num="1011" uuid="M5%1011" picurl="https://i.imgur.com/FStR3CU.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0014" uuid="OTHER0014" picurl="https://i.imgur.com/FStR3CU.png">OTHER</set>
 	</card>
 	<card>
    <name>Lier, Disciple of the Drowned</name>
-		  <set rarity="Mythic Rare" num="1012" uuid="M5%1012" picurl="https://i.imgur.com/ZnWefco.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0015" uuid="OTHER0015" picurl="https://i.imgur.com/ZnWefco.png">OTHER</set>
 	</card>
 	<card>
    <name>Rhystic Study</name>
-		  <set rarity="Mythic Rare" num="1013" uuid="M5%1013" picurl="https://i.imgur.com/W4mnzT3.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0016" uuid="OTHER0016" picurl="https://i.imgur.com/W4mnzT3.png">OTHER</set>
 	</card>
 	<card>
    <name>Doubling Season</name>
-		  <set rarity="Mythic Rare" num="1014" uuid="M5%1014" picurl="https://i.imgur.com/O68sYip.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0017" uuid="OTHER0017" picurl="https://i.imgur.com/O68sYip.png">OTHER</set>
 	</card>
 
 #UMA Cards (Marshmello)
