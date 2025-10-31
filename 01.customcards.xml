@@ -229,7 +229,50 @@
    <name>Baylen, the Haymaker</name>
 		  <set rarity="Mythic Rare" num="0025" uuid="OTHER0025" picurl="https://i.imgur.com/Qbizv47.jpeg">OTHER</set>
 	</card>
-
+	<card>
+   <name>Syr Gwyn Hero of Ashvale </name>
+		  <set rarity="Mythic Rare" num="0026" uuid="OTHER0026" picurl="https://i.imgur.com/KqOOxgf.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Rev, Tithe Extractor</name>
+		  <set rarity="Mythic Rare" num="0027" uuid="OTHER0027" picurl="https://i.imgur.com/TDXcDT6.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Parallel Lives</name>
+		  <set rarity="Mythic Rare" num="0028" uuid="OTHER0028" picurl="https://i.imgur.com/zqQM1gI.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Deflecting Swat</name>
+		  <set rarity="Mythic Rare" num="0030" uuid="OTHER0030" picurl="https://i.imgur.com/oq93xDa.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Three Tree City</name>
+		  <set rarity="Mythic Rare" num="0031" uuid="OTHER0031" picurl="https://i.imgur.com/s2GoCto.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Sol Ring</name>
+		  <set rarity="Mythic Rare" num="0032" uuid="OTHER0032" picurl="https://i.imgur.com/tDNUmko.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Rhystic Study</name>
+		  <set rarity="Mythic Rare" num="0033" uuid="OTHER0033" picurl="https://i.imgur.com/HxUTPyZ.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Displacer Kitten</name>
+		  <set rarity="Mythic Rare" num="0034" uuid="OTHER0034" picurl="https://i.imgur.com/X87qHpb.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Kinnan, Bonder Prodigy</name>
+		  <set rarity="Mythic Rare" num="0035" uuid="OTHER0035" picurl="https://i.imgur.com/P614T2p.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Sol Ring</name>
+		  <set rarity="Mythic Rare" num="0032" uuid="OTHER0032" picurl="https://i.imgur.com/tDNUmko.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Sol Ring</name>
+		  <set rarity="Mythic Rare" num="0032" uuid="OTHER0032" picurl="https://i.imgur.com/tDNUmko.jpeg">OTHER</set>
+	</card>
 
 #UMA Cards (Marshmello)
 	<card>
@@ -393,6 +436,7 @@
 
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
