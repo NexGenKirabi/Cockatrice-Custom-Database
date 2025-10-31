@@ -677,9 +677,6 @@
 		  <set rarity="Mythic Rare" num="0053" uuid="CMC*0053" picurl="https://i.imgur.com/w81Ytpl.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0054" uuid="CMC*0054" picurl="https://i.imgur.com/zP9dJer.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0055" uuid="CMC*0055" picurl="https://i.imgur.com/u8i3hwB.jpeg">CMC*</set>
-	</card>
-	<card>
-		  <name>Nortrom, the Silencer</name>
 		  <set rarity="Mythic Rare" num="0056" uuid="CMC*0056" picurl="https://i.imgur.com/5rMxgdD.jpeg">CMC*</set>
 	</card>
 	<card>
@@ -693,6 +690,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
