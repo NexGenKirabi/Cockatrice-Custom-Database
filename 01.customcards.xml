@@ -92,10 +92,6 @@
 		  <set rarity="Mythic Rare" num="0015" uuid="M5%0015" picurl="https://i.imgur.com/zhKsduL.png">M5%</set>
 	</card>
 	<card>
-   <name>Roaming Throne</name>
-		  <set rarity="Common" num="0016" uuid="M5%0016" picurl="https://i.imgur.com/D5Q19c7.png">M5%</set>
-	</card>
-	<card>
    <name>Metallic Mimic</name>
 		  <set rarity="Rare" num="0017" uuid="M5%0017" picurl="https://i.imgur.com/NSf8dZb.png">M5%</set>
 	</card>
@@ -458,43 +454,47 @@
 		  <set rarity="Mythic Rare" num="0041" uuid="OTHER0041" picurl="https://i.imgur.com/Uq4Xln0.jpeg">OTHER</set>
 	</card>
 	 <name>Displacer Kitten</name>
-		  <set rarity="Mythic Rare" num="0042" uuid="CM*0042" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
+		  <set rarity="Mythic Rare" num="0042" uuid="OTHER0042" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
 	</card>
 	</card>
 	 <name>Tolsimir, Friend to Wolves</name>
-		  <set rarity="Mythic Rare" num="0043" uuid="CM*0043" picurl="https://i.imgur.com/rFm4u4u.png">OTHER</set>
+		  <set rarity="Mythic Rare" num="0043" uuid="OTHER0043" picurl="https://i.imgur.com/rFm4u4u.png">OTHER</set>
 	</card>
 	</card>
 	 <name>Sheoldred, the Apocalypse</name>
-		  <set rarity="Mythic Rare" num="0044" uuid="CM*0044" picurl="https://i.imgur.com/WTiFuGC.jpeg">OTHER</set>
+		  <set rarity="Mythic Rare" num="0044" uuid="OTHER0044" picurl="https://i.imgur.com/WTiFuGC.jpeg">OTHER</set>
 	</card>
 	</card>
 	 <name>Jodah, Archmage Eternal</name>
-		  <set rarity="Mythic Rare" num="0045" uuid="CM*0045" picurl="https://i.imgur.com/ZsSHOPp.jpeg">OTHER</set>
+		  <set rarity="Mythic Rare" num="0045" uuid="OTHER0045" picurl="https://i.imgur.com/ZsSHOPp.jpeg">OTHER</set>
 	</card>
 	</card>
 	 <name>Vindicate</name>
-		  <set rarity="Mythic Rare" num="0046" uuid="CM*0046" picurl="https://i.imgur.com/PLy92q9.jpeg">OTHER</set>
+		  <set rarity="Mythic Rare" num="0046" uuid="OTHER0046" picurl="https://i.imgur.com/PLy92q9.jpeg">OTHER</set>
 	</card>
 	</card>
 	 <name>Teferi's Protection</name>
-		  <set rarity="Mythic Rare" num="0047" uuid="CM*0047" picurl="https://i.imgur.com/GdTg6IB.jpeg">OTHER</set>
+		  <set rarity="Mythic Rare" num="0047" uuid="OTHER0047" picurl="https://i.imgur.com/GdTg6IB.jpeg">OTHER</set>
 	</card>
 	</card>
 	 <name>Dragon Broodmother</name>
-		  <set rarity="Mythic Rare" num="0048" uuid="CM*0048" picurl="https://i.imgur.com/9DT7VNU.jpeg">OTHER</set>
+		  <set rarity="Mythic Rare" num="0048" uuid="OTHER0048" picurl="https://i.imgur.com/9DT7VNU.jpeg">OTHER</set>
 	</card>
 	</card>
 	 <name>Bria, Riptide Rogue</name>
-		  <set rarity="Mythic Rare" num="0042" uuid="CM*0042" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
+		  <set rarity="Mythic Rare" num="0049" uuid="OTHER0049" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
 	</card>
 	</card>
 	 <name>Pollywog Prodigy</name>
-		  <set rarity="Mythic Rare" num="0042" uuid="CM*0042" picurl="https://i.imgur.com/CfZRzgl.jpeg">OTHER</set>
+		  <set rarity="Mythic Rare" num="0050" uuid="OTHER0050" picurl="https://i.imgur.com/CfZRzgl.jpeg">OTHER</set>
 	</card>
 	</card>
 	 <name>Ms. Bumbleflower</name>
-		  <set rarity="Mythic Rare" num="0042" uuid="CM*0042" picurl="https://i.imgur.com/RbbBet4.jpeg">OTHER</set>
+		  <set rarity="Mythic Rare" num="0051" uuid="OTHER0051" picurl="https://i.imgur.com/RbbBet4.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Roaming Throne</name>
+		  <set rarity="Common" num="0052" uuid="OTHER0052" picurl="https://i.imgur.com/D5Q19c7.png">OTHER</set>
 	</card>
 	  
 # CM* (From https://customizedmtg.com/)
@@ -530,6 +530,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
