@@ -878,7 +878,7 @@
 		  <set rarity="Mythic Rare" num="0162" uuid="CMC*0162" picurl="https://i.imgur.com/WbPvr56.jpeg">CMC*</set>
 	</card>
 	<card>
-		  <name>Civil Unrest</name>
+		  <name>Uncivil Unrest</name>
 		  <set rarity="Mythic Rare" num="0163" uuid="CMC*0163" picurl="https://i.imgur.com/Bm9DmmS.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0164" uuid="CMC*0164" picurl="https://i.imgur.com/fPfHrLU.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0165" uuid="CMC*0165" picurl="https://i.imgur.com/W3chZr7.jpeg">CMC*</set>
@@ -994,6 +994,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
