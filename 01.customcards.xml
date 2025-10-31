@@ -652,9 +652,48 @@
 		  <name>Tidus, Yuna's Guardian</name>
 		  <set rarity="Mythic Rare" num="0041" uuid="CMC*0041" picurl="https://i.imgur.com/qEFoAr0.png">CMC*</set>
 	</card>
+	<card>
+		  <name>Magus of the Moon</name>
+		  <set rarity="Mythic Rare" num="0042" uuid="CMC*0042" picurl="https://i.imgur.com/O9waLv6.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Goblin Engineer</name>
+		  <set rarity="Mythic Rare" num="0043" uuid="CMC*0043" picurl="https://i.imgur.com/tmlvnNH.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0044" uuid="CMC*0044" picurl="https://i.imgur.com/aZPYZ7S.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0045" uuid="CMC*0045" picurl="https://i.imgur.com/jVo2lOR.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0046" uuid="CMC*0046" picurl="https://i.imgur.com/81x4Fwe.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Drannith Magistrate</name>
+		  <set rarity="Mythic Rare" num="0047" uuid="CMC*0047" picurl="https://i.imgur.com/8VE0axB.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0048" uuid="CMC*0048" picurl="https://i.imgur.com/DCiI8lS.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0049" uuid="CMC*0049" picurl="https://i.imgur.com/IhmB99f.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0050" uuid="CMC*0050" picurl="https://i.imgur.com/dYBYH3e.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0051" uuid="CMC*0051" picurl="https://i.imgur.com/sq8ymaK.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Imperial Recruiter</name>
+		  <set rarity="Mythic Rare" num="0052" uuid="CMC*0052" picurl="https://i.imgur.com/zxnzvgn.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0053" uuid="CMC*0053" picurl="https://i.imgur.com/w81Ytpl.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0054" uuid="CMC*0054" picurl="https://i.imgur.com/zP9dJer.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0055" uuid="CMC*0055" picurl="https://i.imgur.com/u8i3hwB.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Nortrom, the Silencer</name>
+		  <set rarity="Mythic Rare" num="0056" uuid="CMC*0056" picurl="https://i.imgur.com/5rMxgdD.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Grand Abolisher</name>
+		  <set rarity="Mythic Rare" num="0057" uuid="CMC*0057" picurl="https://i.imgur.com/VX053aV.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0058" uuid="CMC*0058" picurl="https://i.imgur.com/yM4Xkh1.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0059" uuid="CMC*0059" picurl="https://i.imgur.com/D5Cu3GE.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0060" uuid="CMC*0060" picurl="https://i.imgur.com/S5DBnRu.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0061" uuid="CMC*0061" picurl="https://i.imgur.com/JQNitWk.jpeg">CMC*</set>
+	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
