@@ -496,6 +496,10 @@
    <name>Roaming Throne</name>
 		  <set rarity="Common" num="0052" uuid="OTHER0052" picurl="https://i.imgur.com/D5Q19c7.png">OTHER</set>
 	</card>
+	<card>
+   <name>Ghyrson Starn, Kelermorph</name>
+		  <set rarity="Mythic Rare" num="0053" uuid="OTHER0053" picurl="https://i.imgur.com/RkseG7W.png">OTHER</set>
+	</card>
 	  
 # CM* (From https://customizedmtg.com/)
 	<card>
@@ -530,6 +534,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
