@@ -687,9 +687,44 @@
 		  <set rarity="Mythic Rare" num="0060" uuid="CMC*0060" picurl="https://i.imgur.com/S5DBnRu.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0061" uuid="CMC*0061" picurl="https://i.imgur.com/JQNitWk.jpeg">CMC*</set>
 	</card>
+	<card>
+	 <name>Lotus Cobra</name>
+		  <set rarity="Mythic Rare" num="0062" uuid="CMC*0062" picurl="https://i.imgur.com/fdTpPcg.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0064" uuid="CMC*0063" picurl="https://i.imgur.com/aYZ22fD.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0065" uuid="CMC*0059" picurl="https://i.imgur.com/CpfDxFm.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Hermit Druid</name>
+		  <set rarity="Mythic Rare" num="0066" uuid="CMC*0066" picurl="https://i.imgur.com/0ISEEBd.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0067" uuid="CMC*0067" picurl="https://i.imgur.com/MoajZNk.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0068" uuid="CMC*0068" picurl="https://i.imgur.com/ShvzT9l.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0069" uuid="CMC*0069" picurl="https://i.imgur.com/zFGmDon.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0070" uuid="CMC*0070" picurl="https://i.imgur.com/8eNCRZZ.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Verge Rangers</name>
+		  <set rarity="Mythic Rare" num="0071" uuid="CMC*0071" picurl="https://i.imgur.com/6fABeqw.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0072" uuid="CMC*0072" picurl="https://i.imgur.com/0CcXPIJ.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0073" uuid="CMC*0073" picurl="https://i.imgur.com/IoQaUpl.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0074" uuid="CMC*0074" picurl="https://i.imgur.com/n0j0qfT.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Fiend Artisan</name>
+		  <set rarity="Mythic Rare" num="0075" uuid="CMC*0075" picurl="https://i.imgur.com/gpQK4K5.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0076" uuid="CMC*0076" picurl="https://i.imgur.com/5vwNn0A.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0077" uuid="CMC*0077" picurl="https://i.imgur.com/Mn3Ccw7.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0078" uuid="CMC*0078" picurl="https://i.imgur.com/xHKlhud.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Magus of the Moon</name>
+		  <set rarity="Mythic Rare" num="0079" uuid="CMC*0079" picurl="https://i.imgur.com/WG1qWDT.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0080" uuid="CMC*0080" picurl="https://i.imgur.com/gc1X43v.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0081" uuid="CMC*0081" picurl="https://i.imgur.com/OXtejv9.jpeg">CMC*</set>
+	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
