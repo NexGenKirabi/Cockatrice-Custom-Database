@@ -453,42 +453,43 @@
    <name>Teferi's Protection</name>
 		  <set rarity="Mythic Rare" num="0041" uuid="OTHER0041" picurl="https://i.imgur.com/Uq4Xln0.jpeg">OTHER</set>
 	</card>
+	<card>
 	 <name>Displacer Kitten</name>
 		  <set rarity="Mythic Rare" num="0042" uuid="OTHER0042" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Tolsimir, Friend to Wolves</name>
 		  <set rarity="Mythic Rare" num="0043" uuid="OTHER0043" picurl="https://i.imgur.com/rFm4u4u.png">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Sheoldred, the Apocalypse</name>
 		  <set rarity="Mythic Rare" num="0044" uuid="OTHER0044" picurl="https://i.imgur.com/WTiFuGC.jpeg">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Jodah, Archmage Eternal</name>
 		  <set rarity="Mythic Rare" num="0045" uuid="OTHER0045" picurl="https://i.imgur.com/ZsSHOPp.jpeg">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Vindicate</name>
 		  <set rarity="Mythic Rare" num="0046" uuid="OTHER0046" picurl="https://i.imgur.com/PLy92q9.jpeg">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Teferi's Protection</name>
 		  <set rarity="Mythic Rare" num="0047" uuid="OTHER0047" picurl="https://i.imgur.com/GdTg6IB.jpeg">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Dragon Broodmother</name>
 		  <set rarity="Mythic Rare" num="0048" uuid="OTHER0048" picurl="https://i.imgur.com/9DT7VNU.jpeg">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Bria, Riptide Rogue</name>
 		  <set rarity="Mythic Rare" num="0049" uuid="OTHER0049" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Pollywog Prodigy</name>
 		  <set rarity="Mythic Rare" num="0050" uuid="OTHER0050" picurl="https://i.imgur.com/CfZRzgl.jpeg">OTHER</set>
 	</card>
-	</card>
+	<card>
 	 <name>Ms. Bumbleflower</name>
 		  <set rarity="Mythic Rare" num="0051" uuid="OTHER0051" picurl="https://i.imgur.com/RbbBet4.jpeg">OTHER</set>
 	</card>
@@ -534,6 +535,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
