@@ -458,30 +458,79 @@
 		  <set rarity="Mythic Rare" num="0041" uuid="OTHER0041" picurl="https://i.imgur.com/Uq4Xln0.jpeg">OTHER</set>
 	</card>
 	 <name>Displacer Kitten</name>
-		  <set rarity="rare" num="0042" uuid="CM*0042" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
+		  <set rarity="Mythic Rare" num="0042" uuid="CM*0042" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
+	</card>
+	</card>
+	 <name>Tolsimir, Friend to Wolves</name>
+		  <set rarity="Mythic Rare" num="0043" uuid="CM*0043" picurl="https://i.imgur.com/rFm4u4u.png">OTHER</set>
+	</card>
+	</card>
+	 <name>Sheoldred, the Apocalypse</name>
+		  <set rarity="Mythic Rare" num="0044" uuid="CM*0044" picurl="https://i.imgur.com/WTiFuGC.jpeg">OTHER</set>
+	</card>
+	</card>
+	 <name>Jodah, Archmage Eternal</name>
+		  <set rarity="Mythic Rare" num="0045" uuid="CM*0045" picurl="https://i.imgur.com/ZsSHOPp.jpeg">OTHER</set>
+	</card>
+	</card>
+	 <name>Vindicate</name>
+		  <set rarity="Mythic Rare" num="0046" uuid="CM*0046" picurl="https://i.imgur.com/PLy92q9.jpeg">OTHER</set>
+	</card>
+	</card>
+	 <name>Teferi's Protection</name>
+		  <set rarity="Mythic Rare" num="0047" uuid="CM*0047" picurl="https://i.imgur.com/GdTg6IB.jpeg">OTHER</set>
+	</card>
+	</card>
+	 <name>Dragon Broodmother</name>
+		  <set rarity="Mythic Rare" num="0048" uuid="CM*0048" picurl="https://i.imgur.com/9DT7VNU.jpeg">OTHER</set>
+	</card>
+	</card>
+	 <name>Bria, Riptide Rogue</name>
+		  <set rarity="Mythic Rare" num="0042" uuid="CM*0042" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
+	</card>
+	</card>
+	 <name>Pollywog Prodigy</name>
+		  <set rarity="Mythic Rare" num="0042" uuid="CM*0042" picurl="https://i.imgur.com/CfZRzgl.jpeg">OTHER</set>
+	</card>
+	</card>
+	 <name>Ms. Bumbleflower</name>
+		  <set rarity="Mythic Rare" num="0042" uuid="CM*0042" picurl="https://i.imgur.com/RbbBet4.jpeg">OTHER</set>
 	</card>
 	  
 # CM* (From https://customizedmtg.com/)
 	<card>
 		  <name>Displacer Kitten</name>
-		  <set rarity="rare" num="0001" uuid="CM*0001" picurl="https://i.imgur.com/LPaf5HR.png">CM*</set>
-		  <set rarity="rare" num="0002" uuid="CM*0002" picurl="https://i.imgur.com/HaAkiIg.png">CM*</set>
-		  <set rarity="rare" num="0003" uuid="CM*0003" picurl="https://i.imgur.com/zZLKvOZ.png">CM*</set>
-		  <set rarity="rare" num="0004" uuid="CM*0004" picurl="https://i.imgur.com/T01aQp6.png">CM*</set>
-		  <set rarity="rare" num="0005" uuid="CM*0005" picurl="https://i.imgur.com/7cohvhh.png">CM*</set>
-		  <set rarity="rare" num="0006" uuid="CM*0006" picurl="https://i.imgur.com/SAD9GRw.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0001" uuid="CM*0001" picurl="https://i.imgur.com/LPaf5HR.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0002" uuid="CM*0002" picurl="https://i.imgur.com/HaAkiIg.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0003" uuid="CM*0003" picurl="https://i.imgur.com/zZLKvOZ.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0004" uuid="CM*0004" picurl="https://i.imgur.com/T01aQp6.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0005" uuid="CM*0005" picurl="https://i.imgur.com/7cohvhh.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0006" uuid="CM*0006" picurl="https://i.imgur.com/SAD9GRw.png">CM*</set>
 	</card>
 	<card>
 		  <name>Cynette, Jelly Drover</name>
-		  <set rarity="rare" num="0007" uuid="CM*0007" picurl="https://imgur.com/1tyadCJ.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0007" uuid="CM*0007" picurl="https://imgur.com/1tyadCJ.png">CM*</set>
 	</card>
 	<card>
 		  <name>Brigone, Soldier of Meletis</name>
-		  <set rarity="rare" num="0007" uuid="CM*0007" picurl="https://imgur.com/gYEuONp.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0008" uuid="CM*0008" picurl="https://imgur.com/gYEuONp.png">CM*</set>
+	</card>
+	<card>
+		  <name>Avatar of Growth</name>
+		  <set rarity="Mythic Rare" num="0009" uuid="CM*0009" picurl="https://i.imgur.com/iWVECqV.jpeg">CM*</set>
+	</card>
+	<card>
+		  <name>Goblin Goliath</name>
+		  <set rarity="Mythic Rare" num="0010" uuid="CM*0010" picurl="https://i.imgur.com/P1J130u.jpeg">CM*</set>
+	</card>
+	<card>
+		  <name>Inspired Sphinx</name>
+		  <set rarity="Mythic Rare" num="0011" uuid="CM*0011" picurl="https://i.imgur.com/F6ciJpE.jpeg">CM*</set>
 	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
