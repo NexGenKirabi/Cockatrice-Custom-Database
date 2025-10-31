@@ -815,7 +815,7 @@
 		  <set rarity="Mythic Rare" num="0138" uuid="CMC*0138" picurl="https://i.imgur.com/AhtD8jV.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0139" uuid="CMC*0139" picurl="https://i.imgur.com/ClmL83V.jpeg">CMC*</set>
 	</card>
-		<card>
+	<card>
 		  <name>Volcanic Island</name>
 		  <set rarity="Mythic Rare" num="0140" uuid="CMC*0140" picurl="https://i.imgur.com/RLQaGfd.jpeg">CMC*</set>
 	</card>
@@ -835,9 +835,97 @@
 		  <name>Taiga</name>
 		  <set rarity="Mythic Rare" num="0144" uuid="CMC*0144" picurl="https://i.imgur.com/8CN4cVe.jpeg">CMC*</set>
 	</card>
+	<card>
+		  <name>Scrubland</name>
+		  <set rarity="Mythic Rare" num="0145" uuid="CMC*0145" picurl="https://i.imgur.com/tsigyXo.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Savannah</name>
+		  <set rarity="Mythic Rare" num="0146" uuid="CMC*0146" picurl="https://i.imgur.com/rplF55p.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Plateau</name>
+		  <set rarity="Mythic Rare" num="0147" uuid="CMC*0147" picurl="https://i.imgur.com/vn0FVqz.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Bayou</name>
+		  <set rarity="Mythic Rare" num="0148" uuid="CMC*0148" picurl="https://i.imgur.com/jxsfRRg.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0149" uuid="CMC*0149" picurl="https://i.imgur.com/eFeAboy.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Smothering Tithe</name>
+		  <set rarity="Mythic Rare" num="0150" uuid="CMC*0150" picurl="https://i.imgur.com/grmXNcH.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0151" uuid="CMC*0151" picurl="https://i.imgur.com/3sCYxLK.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0152" uuid="CMC*0152" picurl="https://i.imgur.com/jcexbmd.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Rhystic Study</name>
+		  <set rarity="Mythic Rare" num="0153" uuid="CMC*0153" picurl="https://i.imgur.com/VV7pBKQ.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0154" uuid="CMC*0154" picurl="https://i.imgur.com/TBpFleC.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0155" uuid="CMC*0155" picurl="https://i.imgur.com/oBRy6pb.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0156" uuid="CMC*0156" picurl="https://i.imgur.com/aobs3Aj.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Demonic Tutor</name>
+		  <set rarity="Mythic Rare" num="0157" uuid="CMC*0157" picurl="https://i.imgur.com/wrWnH2C.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0158" uuid="CMC*0158" picurl="https://i.imgur.com/mz8TsbP.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0159" uuid="CMC*0159" picurl="https://i.imgur.com/pDu4OdN.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0160" uuid="CMC*0160" picurl="https://i.imgur.com/2ncl1uq.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0161" uuid="CMC*0161" picurl="https://i.imgur.com/T3o1Jc4.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0162" uuid="CMC*0162" picurl="https://i.imgur.com/WbPvr56.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Civil Unrest</name>
+		  <set rarity="Mythic Rare" num="0163" uuid="CMC*0163" picurl="https://i.imgur.com/Bm9DmmS.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0164" uuid="CMC*0164" picurl="https://i.imgur.com/fPfHrLU.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0165" uuid="CMC*0165" picurl="https://i.imgur.com/W3chZr7.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0166" uuid="CMC*0166" picurl="https://i.imgur.com/I8Df7ay.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0167" uuid="CMC*0167" picurl="https://i.imgur.com/QshXMOD.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0168" uuid="CMC*0168" picurl="https://i.imgur.com/tXXj67g.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0169" uuid="CMC*0169" picurl="https://i.imgur.com/ihiMEyy.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0170" uuid="CMC*0170" picurl="https://i.imgur.com/v6bfYqT.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0171" uuid="CMC*0171" picurl="https://i.imgur.com/VutfvnV.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0172" uuid="CMC*0172" picurl="https://i.imgur.com/xnxH8nS.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Steal Enchantment</name>
+		  <set rarity="Mythic Rare" num="0173" uuid="CMC*0163" picurl="https://i.imgur.com/VJ2qcgC.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0174" uuid="CMC*0164" picurl="https://i.imgur.com/4tQIbRD.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0175" uuid="CMC*0165" picurl="https://i.imgur.com/2FPpWWx.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0176" uuid="CMC*0166" picurl="https://i.imgur.com/hyLg99M.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0177" uuid="CMC*0167" picurl="https://i.imgur.com/bheOPGL.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0178" uuid="CMC*0168" picurl="https://i.imgur.com/1fNh6Oj.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0179" uuid="CMC*0169" picurl="https://i.imgur.com/k7wfMAo.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0180" uuid="CMC*0170" picurl="https://i.imgur.com/f4zjuqQ.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Mortuary</name>
+		  <set rarity="Mythic Rare" num="0181" uuid="CMC*0181" picurl="https://i.imgur.com/40xAmIx.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0182" uuid="CMC*0182" picurl="https://i.imgur.com/9hG2QL6.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0183" uuid="CMC*0183" picurl="https://i.imgur.com/jypL8Mi.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0184" uuid="CMC*0184" picurl="https://i.imgur.com/8rFu3LY.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0185" uuid="CMC*0185" picurl="https://i.imgur.com/mNrvhrp.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0186" uuid="CMC*0186" picurl="https://i.imgur.com/AICBbBo.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Charismatic Conqueror</name>
+		  <set rarity="Mythic Rare" num="0187" uuid="CMC*0187" picurl="https://i.imgur.com/mlwqFjw.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0188" uuid="CMC*0188" picurl="https://i.imgur.com/Mj65pDP.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0189" uuid="CMC*0189" picurl="https://i.imgur.com/513iEzM.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0190" uuid="CMC*0190" picurl="https://i.imgur.com/CC6lVGY.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0191" uuid="CMC*0191" picurl="https://i.imgur.com/0BcRUA8.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0192" uuid="CMC*0192" picurl="https://i.imgur.com/jRQiqGe.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0193" uuid="CMC*0193" picurl="https://i.imgur.com/Ve77pGi.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0194" uuid="CMC*0194" picurl="https://i.imgur.com/m8TZTrG.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0195" uuid="CMC*0195" picurl="https://i.imgur.com/ALNFkc1.jpeg">CMC*</set>
+	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
