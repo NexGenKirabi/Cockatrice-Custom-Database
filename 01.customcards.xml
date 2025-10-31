@@ -41,7 +41,7 @@
 
 # Custom Magic Card Set
 	<set>
-		   <name>CM*</name>
+		   <name>CMC*</name>
 		  <longname>Custom Magic Proxies</longname>
 		  <settype>Custom</settype>
 		  <releasedate>2025-10-30</releasedate>
@@ -504,36 +504,37 @@
 # CM* (From https://customizedmtg.com/)
 	<card>
 		  <name>Displacer Kitten</name>
-		  <set rarity="Mythic Rare" num="0001" uuid="CM*0001" picurl="https://i.imgur.com/LPaf5HR.png">CM*</set>
-		  <set rarity="Mythic Rare" num="0002" uuid="CM*0002" picurl="https://i.imgur.com/HaAkiIg.png">CM*</set>
-		  <set rarity="Mythic Rare" num="0003" uuid="CM*0003" picurl="https://i.imgur.com/zZLKvOZ.png">CM*</set>
-		  <set rarity="Mythic Rare" num="0004" uuid="CM*0004" picurl="https://i.imgur.com/T01aQp6.png">CM*</set>
-		  <set rarity="Mythic Rare" num="0005" uuid="CM*0005" picurl="https://i.imgur.com/7cohvhh.png">CM*</set>
-		  <set rarity="Mythic Rare" num="0006" uuid="CM*0006" picurl="https://i.imgur.com/SAD9GRw.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0001" uuid="CMC*0001" picurl="https://i.imgur.com/LPaf5HR.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0002" uuid="CMC*0002" picurl="https://i.imgur.com/HaAkiIg.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0003" uuid="CMC*0003" picurl="https://i.imgur.com/zZLKvOZ.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0004" uuid="CMC*0004" picurl="https://i.imgur.com/T01aQp6.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0005" uuid="CMC*0005" picurl="https://i.imgur.com/7cohvhh.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0006" uuid="CMC*0006" picurl="https://i.imgur.com/SAD9GRw.png">CMC*</set>
 	</card>
 	<card>
 		  <name>Cynette, Jelly Drover</name>
-		  <set rarity="Mythic Rare" num="0007" uuid="CM*0007" picurl="https://imgur.com/1tyadCJ.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0007" uuid="CMC*0007" picurl="https://imgur.com/1tyadCJ.png">CMC*</set>
 	</card>
 	<card>
 		  <name>Brigone, Soldier of Meletis</name>
-		  <set rarity="Mythic Rare" num="0008" uuid="CM*0008" picurl="https://imgur.com/gYEuONp.png">CM*</set>
+		  <set rarity="Mythic Rare" num="0008" uuid="CMC*0008" picurl="https://imgur.com/gYEuONp.png">CMC*</set>
 	</card>
 	<card>
 		  <name>Avatar of Growth</name>
-		  <set rarity="Mythic Rare" num="0009" uuid="CM*0009" picurl="https://i.imgur.com/iWVECqV.jpeg">CM*</set>
+		  <set rarity="Mythic Rare" num="0009" uuid="CMC*0009" picurl="https://i.imgur.com/iWVECqV.jpeg">CMC*</set>
 	</card>
 	<card>
 		  <name>Goblin Goliath</name>
-		  <set rarity="Mythic Rare" num="0010" uuid="CM*0010" picurl="https://i.imgur.com/P1J130u.jpeg">CM*</set>
+		  <set rarity="Mythic Rare" num="0010" uuid="CMC*0010" picurl="https://i.imgur.com/P1J130u.jpeg">CMC*</set>
 	</card>
 	<card>
 		  <name>Inspired Sphinx</name>
-		  <set rarity="Mythic Rare" num="0011" uuid="CM*0011" picurl="https://i.imgur.com/F6ciJpE.jpeg">CM*</set>
+		  <set rarity="Mythic Rare" num="0011" uuid="CMC*0011" picurl="https://i.imgur.com/F6ciJpE.jpeg">CMC*</set>
 	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
