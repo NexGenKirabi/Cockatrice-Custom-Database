@@ -794,9 +794,51 @@
 		  <set rarity="Mythic Rare" num="0123" uuid="CMC*0123" picurl="https://i.imgur.com/tIpskLz.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0124" uuid="CMC*0124" picurl="https://i.imgur.com/xuhchTM.jpeg">CMC*</set>
 	</card>
+	<card>
+		  <name>Walking Ballista</name>
+		  <set rarity="Mythic Rare" num="0125" uuid="CMC*0125" picurl="https://i.imgur.com/DFepKvp.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0126" uuid="CMC*0126" picurl="https://i.imgur.com/ns5AtAs.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0127" uuid="CMC*0127" picurl="https://i.imgur.com/BQfwpqj.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0128" uuid="CMC*0128" picurl="https://i.imgur.com/XI6afN2.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0129" uuid="CMC*0129" picurl="https://i.imgur.com/9igPI3x.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0130" uuid="CMC*0130" picurl="https://i.imgur.com/lIYQrpl.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0131" uuid="CMC*0131" picurl="https://i.imgur.com/THXXsFA.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0132" uuid="CMC*0132" picurl="https://i.imgur.com/5OL6t8M.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0133" uuid="CMC*0133" picurl="https://i.imgur.com/Qc6vcNW.jpeg">CMC*</set>
+	</card>
+		<card>
+		  <name>Gaea's Cradle</name>
+		  <set rarity="Mythic Rare" num="0134" uuid="CMC*0134" picurl="https://i.imgur.com/YXBxwvc.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0135" uuid="CMC*0135" picurl="https://i.imgur.com/iw9seEK.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0136" uuid="CMC*0136" picurl="https://i.imgur.com/p5WQkld.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0137" uuid="CMC*0137" picurl="https://i.imgur.com/iDXfDxx.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0138" uuid="CMC*0138" picurl="https://i.imgur.com/AhtD8jV.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0139" uuid="CMC*0139" picurl="https://i.imgur.com/ClmL83V.jpeg">CMC*</set>
+	</card>
+		<card>
+		  <name>Volcanic Island</name>
+		  <set rarity="Mythic Rare" num="0140" uuid="CMC*0140" picurl="https://i.imgur.com/RLQaGfd.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Underground Sea</name>
+		  <set rarity="Mythic Rare" num="0141" uuid="CMC*0141" picurl="https://i.imgur.com/lH7jo4E.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Tundra</name>
+		  <set rarity="Mythic Rare" num="0142" uuid="CMC*0142" picurl="https://i.imgur.com/toaeM4F.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Tropical Island</name>
+		  <set rarity="Mythic Rare" num="0143" uuid="CMC*0143" picurl="https://i.imgur.com/gCpdnCR.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Taiga</name>
+		  <set rarity="Mythic Rare" num="0144" uuid="CMC*0144" picurl="https://i.imgur.com/8CN4cVe.jpeg">CMC*</set>
+	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
