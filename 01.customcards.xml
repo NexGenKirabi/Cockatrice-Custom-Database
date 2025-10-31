@@ -922,9 +922,79 @@
 		  <set rarity="Mythic Rare" num="0194" uuid="CMC*0194" picurl="https://i.imgur.com/m8TZTrG.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0195" uuid="CMC*0195" picurl="https://i.imgur.com/ALNFkc1.jpeg">CMC*</set>
 	</card>
+	<card>
+		  <name>Stip Mine</name>
+		  <set rarity="Mythic Rare" num="0196" uuid="CMC*0196" picurl="https://i.imgur.com/nzDFypM.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0197" uuid="CMC*0197" picurl="https://i.imgur.com/WJ7Q9vn.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0198" uuid="CMC*0198" picurl="https://i.imgur.com/z4o4sMm.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0199" uuid="CMC*0199" picurl="https://i.imgur.com/irDj5sT.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0200" uuid="CMC*0200" picurl="https://i.imgur.com/3ti4C4z.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0201" uuid="CMC*0201" picurl="https://i.imgur.com/VCN1u1u.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0202" uuid="CMC*0202" picurl="https://i.imgur.com/8qWDFzc.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0203" uuid="CMC*0203" picurl="https://i.imgur.com/GP8kvfT.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Ormacar, Relic Wraith</name>
+		  <set rarity="Mythic Rare" num="0204" uuid="CMC*0204" picurl="https://i.imgur.com/Pmuy7mJ.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0205" uuid="CMC*0205" picurl="https://i.imgur.com/0xAd9AM.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0206" uuid="CMC*0206" picurl="https://i.imgur.com/6QD0se0.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0207" uuid="CMC*0207" picurl="https://i.imgur.com/jpNB9L7.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0208" uuid="CMC*0208" picurl="https://i.imgur.com/2Z7YR3P.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0209" uuid="CMC*0209" picurl="https://i.imgur.com/PshZAh8.jpeg">CMC*</set>
+	      <set rarity="Mythic Rare" num="0210" uuid="CMC*0210" picurl="https://i.imgur.com/irsZDsn.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Ellie, Vengeful Hunter</name>
+		  <set rarity="Mythic Rare" num="0211" uuid="CMC*0211" picurl="https://i.imgur.com/HFXXTwu.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Abby, Merciless Soldier</name>
+		  <set rarity="Mythic Rare" num="0212" uuid="CMC*0212" picurl="https://i.imgur.com/TIeMYVL.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Joel, Resolute Survivor</name>
+		  <set rarity="Mythic Rare" num="0213" uuid="CMC*0213" picurl="https://i.imgur.com/whzKOpg.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Ellie, Brick Master</name>
+		  <set rarity="Mythic Rare" num="0214" uuid="CMC*0214" picurl="https://i.imgur.com/0P6OpI4.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Kratos, Stoic Father</name>
+		  <set rarity="Mythic Rare" num="0215" uuid="CMC*0215" picurl="https://i.imgur.com/rsznMNT.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Atreus, Impulsive Son</name>
+		  <set rarity="Mythic Rare" num="0216" uuid="CMC*0216" picurl="https://i.imgur.com/eRYIKw7.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Kratos, God of War</name>
+		  <set rarity="Mythic Rare" num="0217" uuid="CMC*0217" picurl="https://i.imgur.com/5EcHBA0.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Nathan Drake, Treasure Hunter</name>
+		  <set rarity="Mythic Rare" num="0218" uuid="CMC*0218" picurl="https://i.imgur.com/hfXwiee.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Jin Sakai, Ghost of Tsushima</name>
+		  <set rarity="Mythic Rare" num="0219" uuid="CMC*0219" picurl="https://i.imgur.com/optFZ0j.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Aloy, Savior of Meridian</name>
+		  <set rarity="Mythic Rare" num="0220" uuid="CMC*0220" picurl="https://i.imgur.com/PI5oGu0.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Rot Hulk</name>
+		  <set rarity="Mythic Rare" num="0221" uuid="CMC*0221" picurl="https://i.imgur.com/eA4ywcN.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Militant Angel</name>
+		  <set rarity="Mythic Rare" num="0222" uuid="CMC*0222" picurl="https://i.imgur.com/rNAEGnE.jpeg">CMC*</set>
+	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
