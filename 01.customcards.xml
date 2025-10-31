@@ -214,7 +214,7 @@
 		  <set rarity="Mythic Rare" num="0021" uuid="OTHER0021" picurl="https://i.imgur.com/jzlvZcK.jpeg">OTHER</set>
 	</card>
 	<card>
-   <name>Atrexa, Praetors' Voice</name>
+   <name>Atraxa, Praetors' Voice</name>
 		  <set rarity="Mythic Rare" num="0022" uuid="OTHER0022" picurl="https://i.imgur.com/Z0Ngt1f.jpeg">OTHER</set>
 	</card>
 	<card>
@@ -230,7 +230,7 @@
 		  <set rarity="Mythic Rare" num="0025" uuid="OTHER0025" picurl="https://i.imgur.com/Qbizv47.jpeg">OTHER</set>
 	</card>
 	<card>
-   <name>Syr Gwyn, Hero of Ashvale </name>
+   <name>Syr Gwyn, Hero of Ashvale</name>
 		  <set rarity="Mythic Rare" num="0026" uuid="OTHER0026" picurl="https://i.imgur.com/KqOOxgf.jpeg">OTHER</set>
 	</card>
 	<card>
@@ -452,6 +452,7 @@
 
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
