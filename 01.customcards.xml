@@ -764,7 +764,7 @@
 		  <set rarity="Mythic Rare" num="0105" uuid="CMC*0105" picurl="https://i.imgur.com/1z9oUxx.jpeg">CMC*</set>
 	</card>
 	<card>
-		  <name>hullbreacher</name>
+		  <name>Hullbreacher</name>
 		  <set rarity="Mythic Rare" num="0106" uuid="CMC*0106" picurl="https://i.imgur.com/QDvFxU8.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0107" uuid="CMC*0107" picurl="https://i.imgur.com/VbABNxA.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0108" uuid="CMC*0108" picurl="https://i.imgur.com/f6u9oXi.jpeg">CMC*</set>
@@ -994,6 +994,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
