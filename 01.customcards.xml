@@ -532,9 +532,126 @@
 		  <name>Inspired Sphinx</name>
 		  <set rarity="Mythic Rare" num="0011" uuid="CMC*0011" picurl="https://i.imgur.com/F6ciJpE.jpeg">CMC*</set>
 	</card>
+	<card>
+		  <name>Aphelia, Viper Whisperer</name>
+		  <set rarity="Mythic Rare" num="0012" uuid="CMC*0012" picurl="https://i.imgur.com/i94RwFk.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Evereth, Viceroy of Plunder</name>
+		  <set rarity="Mythic Rare" num="0013" uuid="CMC*0013" picurl="https://i.imgur.com/5MyVJ1a.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Fumulus, the Infestation</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="CMC*0014" picurl="https://i.imgur.com/uMCU1qY.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Gornog, the Red Reaper</name>
+		  <set rarity="Mythic Rare" num="0015" uuid="CMC*0015" picurl="https://i.imgur.com/7a0V96a.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Hurska Sweet-Tooth</name>
+		  <set rarity="Mythic Rare" num="0016" uuid="CMC*0016" picurl="https://i.imgur.com/D6Eoalq.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Neerdiv, Devious Diver</name>
+		  <set rarity="Mythic Rare" num="0017" uuid="CMC*0017" picurl="https://i.imgur.com/dmeILt1.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Plagon, Lord of the Beach</name>
+		  <set rarity="Mythic Rare" num="0018" uuid="CMC*0018" picurl="https://i.imgur.com/bc8v145.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Pol Jamaar, Illusionist</name>
+		  <set rarity="Mythic Rare" num="0019" uuid="CMC*0019" picurl="https://i.imgur.com/aaYF0SP.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Rev, Tithe Extractor</name>
+		  <set rarity="Mythic Rare" num="0020" uuid="CMC*0020" picurl="https://i.imgur.com/RE6OQvL.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Shroofus Sproutsire</name>
+		  <set rarity="Mythic Rare" num="0021" uuid="CMC*0021" picurl="https://i.imgur.com/MU7iAxz.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Siegfried, Famed Swordsman</name>
+		  <set rarity="Mythic Rare" num="0022" uuid="CMC*0022" picurl="https://i.imgur.com/tlDZqs6.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Sin, Unending Cataclysm</name>
+		  <set rarity="Mythic Rare" num="0023" uuid="CMC*0023" picurl="https://i.imgur.com/4lTxf1f.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Slinza, the Spiked Stampede</name>
+		  <set rarity="Mythic Rare" num="0024" uuid="CMC*0024" picurl="https://i.imgur.com/oPkBfI4.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Strago and Relm</name>
+		  <set rarity="Mythic Rare" num="0025" uuid="CMC*0025" picurl="https://i.imgur.com/SyvAcmE.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Taeko, the Patient Avalanche</name>
+		  <set rarity="Mythic Rare" num="0026" uuid="CMC*0026" picurl="https://i.imgur.com/AUeg7kN.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Terra, Herald of Hope</name>
+		  <set rarity="Mythic Rare" num="0027" uuid="CMC*0027" picurl="https://i.imgur.com/LfOeM6K.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Thancred Waters</name>
+		  <set rarity="Mythic Rare" num="0028" uuid="CMC*0028" picurl="https://i.imgur.com/d7JEJpS.png">CMC*</set>
+	</card>
+	<card>
+		  <name>The Warring Triad</name>
+		  <set rarity="Mythic Rare" num="0029" uuid="CMC*0029" picurl="https://i.imgur.com/DEII94l.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Thurid, Mare of Destiny</name>
+		  <set rarity="Mythic Rare" num="0030" uuid="CMC*0030" picurl="https://i.imgur.com/V9d1Gqx.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Tifa, Martial Artist</name>
+		  <set rarity="Mythic Rare" num="0031" uuid="CMC*0031" picurl="https://i.imgur.com/XVyr0FN.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Tataru Taru</name>
+		  <set rarity="Mythic Rare" num="0032" uuid="CMC*0032" picurl="https://i.imgur.com/CCc8JhT.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Yuna, Grand Summoner</name>
+		  <set rarity="Mythic Rare" num="0033" uuid="CMC*0033" picurl="https://i.imgur.com/xt8iq6o.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Yuffie, Materia Hunter</name>
+		  <set rarity="Mythic Rare" num="0034" uuid="CMC*0034" picurl="https://i.imgur.com/NQ36ZXj.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Y'shtola, Night's Blessed</name>
+		  <set rarity="Mythic Rare" num="0035" uuid="CMC*0035" picurl="https://i.imgur.com/2nMGTzT.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Tromell, Seymour's Butler</name>
+		  <set rarity="Mythic Rare" num="0036" uuid="CMC*0036" picurl="https://i.imgur.com/oKoNNGf.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Umaro, Raging Yeti</name>
+		  <set rarity="Mythic Rare" num="0037" uuid="CMC*0037" picurl="https://i.imgur.com/mGRVflG.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Urianger Augurelt</name>
+		  <set rarity="Mythic Rare" num="0038" uuid="CMC*0038" picurl="https://i.imgur.com/voRJPmL.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Vincent, Vengeful Atoner</name>
+		  <set rarity="Mythic Rare" num="0039" uuid="CMC*0039" picurl="https://i.imgur.com/stB33kS.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Vincent, Vengeful Atoner</name>
+		  <set rarity="Mythic Rare" num="0040" uuid="CMC*0040" picurl="https://i.imgur.com/stB33kS.png">CMC*</set>
+	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
