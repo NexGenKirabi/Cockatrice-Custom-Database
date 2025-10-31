@@ -15,14 +15,6 @@
 		  <releasedate>2025-05-14</releasedate>
 		</set>
 
-# Internet Proxy Card Set
-	<set>
-		   <name>OTHER</name>
-		  <longname>Proxies We Found on the Internet</longname>
-		  <settype>Custom</settype>
-		  <releasedate>2025-10-30</releasedate>
-		</set>
-
 # Zombie's Card Set
 	  <set>
 		   <name>BREAD</name>
@@ -38,8 +30,24 @@
 		  <settype>Custom</settype>
 		  <releasedate>2025-10-30</releasedate>
 		</set>
+
+# Internet Proxy Card Set
+	<set>
+		   <name>OTHER</name>
+		  <longname>Proxies We Found on the Internet</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2025-10-30</releasedate>
+		</set>
+
+# Custom Magic Card Set
+	<set>
+		   <name>CM*</name>
+		  <longname>Custom Magic Proxies</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2025-10-30</releasedate>
+		</set>
   </sets>
-	
+
   <cards>
 
 # M5% Cards (NexGenKirabi)
