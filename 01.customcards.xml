@@ -198,7 +198,7 @@
 		  <set rarity="Mythic Rare" num="0017" uuid="OTHER0017" picurl="https://i.imgur.com/O68sYip.png">OTHER</set>
 	</card>
 	<card>
-   <name>Blade of Selvesn</name>
+   <name>Blade of Selves</name>
 		  <set rarity="Mythic Rare" num="0018" uuid="OTHER0018" picurl="https://i.imgur.com/rc3mC4z.jpeg">OTHER</set>
 	</card>
 	<card>
@@ -214,7 +214,7 @@
 		  <set rarity="Mythic Rare" num="0021" uuid="OTHER0021" picurl="https://i.imgur.com/jzlvZcK.jpeg">OTHER</set>
 	</card>
 	<card>
-   <name>Atrexa, Preators' Voice</name>
+   <name>Atrexa, Praetors' Voice</name>
 		  <set rarity="Mythic Rare" num="0022" uuid="OTHER0022" picurl="https://i.imgur.com/Z0Ngt1f.jpeg">OTHER</set>
 	</card>
 	<card>
@@ -230,7 +230,7 @@
 		  <set rarity="Mythic Rare" num="0025" uuid="OTHER0025" picurl="https://i.imgur.com/Qbizv47.jpeg">OTHER</set>
 	</card>
 	<card>
-   <name>Syr Gwyn Hero of Ashvale </name>
+   <name>Syr Gwyn, Hero of Ashvale </name>
 		  <set rarity="Mythic Rare" num="0026" uuid="OTHER0026" picurl="https://i.imgur.com/KqOOxgf.jpeg">OTHER</set>
 	</card>
 	<card>
@@ -266,7 +266,7 @@
 		  <set rarity="Mythic Rare" num="0035" uuid="OTHER0035" picurl="https://i.imgur.com/P614T2p.jpeg">OTHER</set>
 	</card>
 	<card>
-   <name>Syhis, Harvest's Hand</name>
+   <name>Sythis, Harvest's Hand</name>
 		  <set rarity="Mythic Rare" num="0036" uuid="OTHER0036" picurl="https://i.imgur.com/YcN6bGl.jpeg">OTHER</set>
 	</card>
 	<card>
@@ -452,6 +452,7 @@
 
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
