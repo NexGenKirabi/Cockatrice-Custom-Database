@@ -58,7 +58,11 @@
           <name>Morophon, the Boundless</name>
           <set rarity="Mythic Rare" num="0006" uuid="M5%0006" picurl="https://imgur.com/xDDbjNC.png">M5%</set>
           <set rarity="Mythic Rare" num="0007" uuid="M5%0007" picurl="https://imgur.com/W0QSScE.png">M5%</set>
- </card>
+	</card>
+	<card>
+	   <name>Baylen, the Haymaker</name>
+		  <set rarity="Mythic Rare" num="0008" uuid="M5%0008" picurl="https://i.imgur.com/vXJ4klz.png">M5%</set>
+	</card>
 	<card>
 	   <name>Vampiric Tutor</name>
 		  <set rarity="Mythic Rare" num="0011" uuid="M5%0011" picurl="https://i.imgur.com/IBnlTMb.png">M5%</set>
@@ -193,6 +197,39 @@
    <name>Doubling Season</name>
 		  <set rarity="Mythic Rare" num="0017" uuid="OTHER0017" picurl="https://i.imgur.com/O68sYip.png">OTHER</set>
 	</card>
+	<card>
+   <name>Blade of Selvesn</name>
+		  <set rarity="Mythic Rare" num="0018" uuid="OTHER0018" picurl="https://i.imgur.com/rc3mC4z.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Mana Crypt</name>
+		  <set rarity="Mythic Rare" num="0019" uuid="OTHER0019" picurl="https://i.imgur.com/KmuHHeu.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Blood Artist</name>
+		  <set rarity="Mythic Rare" num="0020" uuid="OTHER0020" picurl="https://i.imgur.com/ClgKnhc.png">OTHER</set>
+	</card>
+	<card>
+   <name>Brenard, Ginger Sculptor</name>
+		  <set rarity="Mythic Rare" num="0021" uuid="OTHER0021" picurl="https://i.imgur.com/jzlvZcK.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Atrexa, Preators' Voice</name>
+		  <set rarity="Mythic Rare" num="0022" uuid="OTHER0022" picurl="https://i.imgur.com/Z0Ngt1f.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>The Mycotyrant</name>
+		  <set rarity="Mythic Rare" num="0023" uuid="OTHER0023" picurl="https://i.imgur.com/GwdBULg.jpeg">OTHER</set>
+	</card>	
+	<card>
+   <name>Yuriko, the Tiger's Shadow</name>
+		  <set rarity="Mythic Rare" num="0024" uuid="OTHER0024" picurl="https://i.imgur.com/WcIogBi.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Baylen, the Haymaker</name>
+		  <set rarity="Mythic Rare" num="0025" uuid="OTHER0025" picurl="https://i.imgur.com/Qbizv47.jpeg">OTHER</set>
+	</card>
+
 
 #UMA Cards (Marshmello)
 	<card>
@@ -209,7 +246,7 @@
 	</card>
 	<card>
    <name>Wedding Ring</name>
-		  <set rarity="Mythic Rare" num="0103" uuid="UMA*0103" picurl="https://i.imgur.com/nNfiRgP.png">UMA*</set>
+		  <set rarity="Mythic Rare" num="0103" uuid="UMA*0103" picurl="https://i.imgur.com/jzlvZcK.jpeg">UMA*</set>
 	</card>
 	<card>
    <name>Vampiric Tutor</name>
@@ -356,6 +393,7 @@
 
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
