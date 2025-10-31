@@ -266,12 +266,28 @@
 		  <set rarity="Mythic Rare" num="0035" uuid="OTHER0035" picurl="https://i.imgur.com/P614T2p.jpeg">OTHER</set>
 	</card>
 	<card>
-   <name>Sol Ring</name>
-		  <set rarity="Mythic Rare" num="0032" uuid="OTHER0032" picurl="https://i.imgur.com/tDNUmko.jpeg">OTHER</set>
+   <name>Syhis, Harvest's Hand</name>
+		  <set rarity="Mythic Rare" num="0036" uuid="OTHER0032" picurl="https://i.imgur.com/YcN6bGl.jpeg">OTHER</set>
 	</card>
 	<card>
-   <name>Sol Ring</name>
-		  <set rarity="Mythic Rare" num="0032" uuid="OTHER0032" picurl="https://i.imgur.com/tDNUmko.jpeg">OTHER</set>
+   <name>Sheoldred, Whispering One</name>
+		  <set rarity="Mythic Rare" num="0037" uuid="OTHER0032" picurl="https://i.imgur.com/VUSwJ6f.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Counterspell</name>
+		  <set rarity="Mythic Rare" num="0038" uuid="OTHER0032" picurl="https://i.imgur.com/0DzIouw.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Deflecting Swat</name>
+		  <set rarity="Mythic Rare" num="0039" uuid="OTHER0032" picurl="https://i.imgur.com/7GDan2O.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Mystic Remora</name>
+		  <set rarity="Mythic Rare" num="0040" uuid="OTHER0032" picurl="https://i.imgur.com/CXWLm8V.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Teferi's Protection</name>
+		  <set rarity="Mythic Rare" num="0041" uuid="OTHER0032" picurl="https://i.imgur.com/Uq4Xln0.jpeg">OTHER</set>
 	</card>
 
 #UMA Cards (Marshmello)
@@ -436,6 +452,7 @@
 
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
