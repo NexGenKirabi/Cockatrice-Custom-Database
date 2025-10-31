@@ -721,9 +721,51 @@
 		  <set rarity="Mythic Rare" num="0080" uuid="CMC*0080" picurl="https://i.imgur.com/gc1X43v.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0081" uuid="CMC*0081" picurl="https://i.imgur.com/OXtejv9.jpeg">CMC*</set>
 	</card>
+		<card>
+		  <name>Allosaurus Shepherd</name>
+		  <set rarity="Mythic Rare" num="0082" uuid="CMC*0082" picurl="https://i.imgur.com/vqsyOud.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0083" uuid="CMC*0083" picurl="https://i.imgur.com/TZA6W62.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0084" uuid="CMC*0084" picurl="https://i.imgur.com/aj3Yvu9.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0085" uuid="CMC*0085" picurl="https://i.imgur.com/hhlXGXM.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0086" uuid="CMC*0086" picurl="https://i.imgur.com/tc3Hk1u.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Leyline Tyrant</name>
+		  <set rarity="Mythic Rare" num="0087" uuid="CMC*0087" picurl="https://i.imgur.com/z0yWZpl.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0088" uuid="CMC*0088" picurl="https://i.imgur.com/61iVBmz.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0089" uuid="CMC*0089" picurl="https://i.imgur.com/2AY7AOX.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0090" uuid="CMC*0090" picurl="https://i.imgur.com/JbVuIvM.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Simian Spirit Guide</name>
+		  <set rarity="Mythic Rare" num="0091" uuid="CMC*0091" picurl="https://i.imgur.com/2L5Oi1G.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0092" uuid="CMC*0092" picurl="https://i.imgur.com/ABbMYks.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0093" uuid="CMC*0093" picurl="https://i.imgur.com/JncHTIt.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0094" uuid="CMC*0094" picurl="https://i.imgur.com/7i76QCl.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0095" uuid="CMC*0095" picurl="https://i.imgur.com/My5K8sr.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Jace, Vryn's Prodigy</name>
+		  <set rarity="Mythic Rare" num="0096" uuid="CMC*0096" picurl="https://i.imgur.com/jHBNXzO.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0097" uuid="CMC*0097" picurl="https://i.imgur.com/k8RdrbI.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0098" uuid="CMC*0098" picurl="https://i.imgur.com/PSCp3Ii.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Jace, Telepath Unbound</name>
+		  <set rarity="Mythic Rare" num="0099" uuid="CMC*0099" picurl="https://i.imgur.com/nx36QJV.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0100" uuid="CMC*0100" picurl="https://i.imgur.com/zilpCbH.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0101" uuid="CMC*0101" picurl="https://i.imgur.com/bRAAmcf.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Dryad Arbor</name>
+		  <set rarity="Mythic Rare" num="0102" uuid="CMC*0102" picurl="https://i.imgur.com/uIey7eC.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0103" uuid="CMC*0103" picurl="https://i.imgur.com/QE0tVSp.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0104" uuid="CMC*0104" picurl="https://i.imgur.com/zwPvP7u.jpeg">CMC*</set>
+	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
