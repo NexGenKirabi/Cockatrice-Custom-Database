@@ -761,10 +761,43 @@
 		  <set rarity="Mythic Rare" num="0102" uuid="CMC*0102" picurl="https://i.imgur.com/uIey7eC.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0103" uuid="CMC*0103" picurl="https://i.imgur.com/QE0tVSp.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0104" uuid="CMC*0104" picurl="https://i.imgur.com/zwPvP7u.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0105" uuid="CMC*0105" picurl="https://i.imgur.com/1z9oUxx.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>hullbreacher</name>
+		  <set rarity="Mythic Rare" num="0106" uuid="CMC*0106" picurl="https://i.imgur.com/QDvFxU8.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0107" uuid="CMC*0107" picurl="https://i.imgur.com/VbABNxA.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0108" uuid="CMC*0108" picurl="https://i.imgur.com/f6u9oXi.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0109" uuid="CMC*0109" picurl="https://i.imgur.com/6XZPCle.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0110" uuid="CMC*0110" picurl="https://i.imgur.com/lCkHkAo.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Opposition Agent</name>
+		  <set rarity="Mythic Rare" num="0111" uuid="CMC*0111" picurl="https://i.imgur.com/zBLzrru.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0112" uuid="CMC*0112" picurl="https://i.imgur.com/63mGdAB.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0113" uuid="CMC*0113" picurl="https://i.imgur.com/oTX8XN0.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0114" uuid="CMC*0114" picurl="https://i.imgur.com/8AvzmDF.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0115" uuid="CMC*0115" picurl="https://i.imgur.com/aaX1cZF.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0116" uuid="CMC*0116" picurl="https://i.imgur.com/YiP5Kba.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0117" uuid="CMC*0117" picurl="https://i.imgur.com/duHQDpB.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Arcbound Ravager</name>
+		  <set rarity="Mythic Rare" num="0118" uuid="CMC*0118" picurl="https://i.imgur.com/gegwL98.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0119" uuid="CMC*0119" picurl="https://i.imgur.com/Uzaez5O.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0120" uuid="CMC*0120" picurl="https://i.imgur.com/Kr8hXTR.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0121" uuid="CMC*0121" picurl="https://i.imgur.com/RQNMrPE.jpeg">CMC*</set>
+	</card>
+	<card>
+		  <name>Metalworker</name>
+		  <set rarity="Mythic Rare" num="0122" uuid="CMC*0122" picurl="https://i.imgur.com/pUH1uM9.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0123" uuid="CMC*0123" picurl="https://i.imgur.com/tIpskLz.jpeg">CMC*</set>
+		  <set rarity="Mythic Rare" num="0124" uuid="CMC*0124" picurl="https://i.imgur.com/xuhchTM.jpeg">CMC*</set>
 	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
