@@ -645,12 +645,17 @@
 		  <set rarity="Mythic Rare" num="0039" uuid="CMC*0039" picurl="https://i.imgur.com/stB33kS.png">CMC*</set>
 	</card>
 	<card>
-		  <name>Vincent, Vengeful Atoner</name>
-		  <set rarity="Mythic Rare" num="0040" uuid="CMC*0040" picurl="https://i.imgur.com/stB33kS.png">CMC*</set>
+		  <name>Wakka, Devoted Guardian</name>
+		  <set rarity="Mythic Rare" num="0040" uuid="CMC*0040" picurl="https://i.imgur.com/MjwW1Da.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Tidus, Yuna's Guardian</name>
+		  <set rarity="Mythic Rare" num="0041" uuid="CMC*0041" picurl="https://i.imgur.com/qEFoAr0.png">CMC*</set>
 	</card>
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
