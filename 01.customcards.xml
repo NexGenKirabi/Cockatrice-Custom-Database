@@ -136,168 +136,6 @@
 		  <set rarity="mythic rare" num="0030" uuid="M5%0030" picurl="https://i.imgur.com/7EDh5s1.png">M5%</set>
 	</card>
 
-# Other Cards (From the internet)
-	<card>
-		  <name>Displacer Kitten</name>
-		  <set rarity="rare" num="0001" uuid="OTHER0001" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
-	</card>
-	<card>
-		  <name>Cynette, Jelly Drover</name>
-		  <set rarity="rare" num="0002" uuid="OTHER0002" picurl="https://imgur.com/1tyadCJ.png">OTHER</set>
-	</card>
-	<card>
-		  <name>Brigone, Soldier of Meletis</name>
-		  <set rarity="rare" num="0003" uuid="OTHER0003" picurl="https://imgur.com/gYEuONp.png">OTHER</set>
-	</card>
-	<card>
-		  <name>Smothering Tithe</name>
-		   <set rarity="rare" num="0004" uuid="OTHER0004" picurl="https://imgur.com/ozVBIQc.png">OTHER</set>
-	</card>
-	<card>
-   <name>Tom Bombadil</name>
-		  <set rarity="Mythic Rare" num="0005" uuid="OTHER0005" picurl="https://i.imgur.com/OZMQXlw.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Cyclonic Rift</name>
-		  <set rarity="Mythic Rare" num="0006" uuid="OTHER0006" picurl="https://i.imgur.com/YybJfuV.png">OTHER</set>
-	</card>
-	<card>
-   <name>Captain America, First Avenger</name>
-		  <set rarity="Mythic Rare" num="0007" uuid="OTHER0007" picurl="https://i.imgur.com/x961G6Z.png">OTHER</set>
-	</card>
-	<card>
-   <name>Dark Ritual</name>
-		  <set rarity="Mythic Rare" num="0008" uuid="OTHER0008" picurl="https://i.imgur.com/y7F0KPm.png">OTHER</set>
-	</card>
-	<card>
-   <name>Exploration</name>
-		  <set rarity="Mythic Rare" num="0009" uuid="OTHER0009" picurl="https://i.imgur.com/PzVrQ5o.png">OTHER</set>
-	</card>
-	<card>
-   <name>The Ozolith</name>
-		  <set rarity="Mythic Rare" num="0010" uuid="OTHER0010" picurl="https://i.imgur.com/AFQqvVs.png">OTHER</set>
-	</card>
-	<card>
-   <name>Urza's Saga</name>
-		  <set rarity="Mythic Rare" num="0011" uuid="OTHER0011" picurl="https://i.imgur.com/VsSqZFA.png">OTHER</set>
-	</card>
-	<card>
-   <name>Urborg, Tomb of Yawgmoth</name>
-		  <set rarity="Mythic Rare" num="0012" uuid="OTHER0012" picurl="https://i.imgur.com/e2T0qkp.png">OTHER</set>
-	</card>
-	<card>
-   <name>Rhoda, Geist Avenger</name>
-		  <set rarity="Mythic Rare" num="0013" uuid="OTHER0013" picurl="https://i.imgur.com/8xanGEO.png">OTHER</set>
-	</card>
-	<card>
-   <name>Timin, Youthful Geist</name>
-		  <set rarity="Mythic Rare" num="0014" uuid="OTHER0014" picurl="https://i.imgur.com/FStR3CU.png">OTHER</set>
-	</card>
-	<card>
-   <name>Lier, Disciple of the Drowned</name>
-		  <set rarity="Mythic Rare" num="0015" uuid="OTHER0015" picurl="https://i.imgur.com/ZnWefco.png">OTHER</set>
-	</card>
-	<card>
-   <name>Rhystic Study</name>
-		  <set rarity="Mythic Rare" num="0016" uuid="OTHER0016" picurl="https://i.imgur.com/W4mnzT3.png">OTHER</set>
-	</card>
-	<card>
-   <name>Doubling Season</name>
-		  <set rarity="Mythic Rare" num="0017" uuid="OTHER0017" picurl="https://i.imgur.com/O68sYip.png">OTHER</set>
-	</card>
-	<card>
-   <name>Blade of Selves</name>
-		  <set rarity="Mythic Rare" num="0018" uuid="OTHER0018" picurl="https://i.imgur.com/rc3mC4z.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Mana Crypt</name>
-		  <set rarity="Mythic Rare" num="0019" uuid="OTHER0019" picurl="https://i.imgur.com/KmuHHeu.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Blood Artist</name>
-		  <set rarity="Mythic Rare" num="0020" uuid="OTHER0020" picurl="https://i.imgur.com/ClgKnhc.png">OTHER</set>
-	</card>
-	<card>
-   <name>Brenard, Ginger Sculptor</name>
-		  <set rarity="Mythic Rare" num="0021" uuid="OTHER0021" picurl="https://i.imgur.com/jzlvZcK.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Atraxa, Praetors' Voice</name>
-		  <set rarity="Mythic Rare" num="0022" uuid="OTHER0022" picurl="https://i.imgur.com/Z0Ngt1f.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>The Mycotyrant</name>
-		  <set rarity="Mythic Rare" num="0023" uuid="OTHER0023" picurl="https://i.imgur.com/GwdBULg.jpeg">OTHER</set>
-	</card>	
-	<card>
-   <name>Yuriko, the Tiger's Shadow</name>
-		  <set rarity="Mythic Rare" num="0024" uuid="OTHER0024" picurl="https://i.imgur.com/WcIogBi.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Baylen, the Haymaker</name>
-		  <set rarity="Mythic Rare" num="0025" uuid="OTHER0025" picurl="https://i.imgur.com/Qbizv47.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Syr Gwyn, Hero of Ashvale</name>
-		  <set rarity="Mythic Rare" num="0026" uuid="OTHER0026" picurl="https://i.imgur.com/KqOOxgf.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Rev, Tithe Extractor</name>
-		  <set rarity="Mythic Rare" num="0027" uuid="OTHER0027" picurl="https://i.imgur.com/TDXcDT6.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Parallel Lives</name>
-		  <set rarity="Mythic Rare" num="0028" uuid="OTHER0028" picurl="https://i.imgur.com/zqQM1gI.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Deflecting Swat</name>
-		  <set rarity="Mythic Rare" num="0030" uuid="OTHER0030" picurl="https://i.imgur.com/oq93xDa.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Three Tree City</name>
-		  <set rarity="Mythic Rare" num="0031" uuid="OTHER0031" picurl="https://i.imgur.com/s2GoCto.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Sol Ring</name>
-		  <set rarity="Mythic Rare" num="0032" uuid="OTHER0032" picurl="https://i.imgur.com/tDNUmko.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Rhystic Study</name>
-		  <set rarity="Mythic Rare" num="0033" uuid="OTHER0033" picurl="https://i.imgur.com/HxUTPyZ.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Displacer Kitten</name>
-		  <set rarity="Mythic Rare" num="0034" uuid="OTHER0034" picurl="https://i.imgur.com/X87qHpb.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Kinnan, Bonder Prodigy</name>
-		  <set rarity="Mythic Rare" num="0035" uuid="OTHER0035" picurl="https://i.imgur.com/P614T2p.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Sythis, Harvest's Hand</name>
-		  <set rarity="Mythic Rare" num="0036" uuid="OTHER0036" picurl="https://i.imgur.com/YcN6bGl.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Sheoldred, Whispering One</name>
-		  <set rarity="Mythic Rare" num="0037" uuid="OTHER0037" picurl="https://i.imgur.com/VUSwJ6f.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Counterspell</name>
-		  <set rarity="Mythic Rare" num="0038" uuid="OTHER0038" picurl="https://i.imgur.com/0DzIouw.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Deflecting Swat</name>
-		  <set rarity="Mythic Rare" num="0039" uuid="OTHER0039" picurl="https://i.imgur.com/7GDan2O.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Mystic Remora</name>
-		  <set rarity="Mythic Rare" num="0040" uuid="OTHER0040" picurl="https://i.imgur.com/CXWLm8V.jpeg">OTHER</set>
-	</card>
-	<card>
-   <name>Teferi's Protection</name>
-		  <set rarity="Mythic Rare" num="0041" uuid="OTHER0041" picurl="https://i.imgur.com/Uq4Xln0.jpeg">OTHER</set>
-	</card>
-
 #UMA Cards (Marshmello)
 	<card>
    <name>Mondrak, Glory Dominus</name>
@@ -457,9 +295,194 @@
    <name>Damnation</name>
 		  <set rarity="Mythic Rare" num="1001" uuid="BREAD1001" picurl="https://i.imgur.com/MoDO0WH.png">BREAD</set>
 	</card>
-
+	  
+# Other Cards (From the internet)
+	<card>
+		  <name>Kiora, the Tide's Fury</name>
+		  <set rarity="Mythic Rare" num="0001" uuid="OTHER0001" picurl="https://i.imgur.com/pqOtJiY.jpeg">OTHER</set>
+	</card>
+	<card>
+		  <name>Godo, Bandit Warlord</name>
+		  <set rarity="Mythic Rare" num="0002" uuid="OTHER0002" picurl="https://i.imgur.com/9ii9kOP.jpeg">OTHER</set>
+	</card>
+	<card>
+		  <name>Skithiryx, the Blight Dragon</name>
+		  <set rarity="Mythic Rare" num="0003" uuid="OTHER0003" picurl="https://i.imgur.com/57rR9NE.png">OTHER</set>
+	</card>
+	<card>
+		  <name>Smothering Tithe</name>
+		   <set rarity="Mythic Rare" num="0004" uuid="OTHER0004" picurl="https://imgur.com/ozVBIQc.png">OTHER</set>
+	</card>
+	<card>
+   <name>Tom Bombadil</name>
+		  <set rarity="Mythic Rare" num="0005" uuid="OTHER0005" picurl="https://i.imgur.com/OZMQXlw.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Cyclonic Rift</name>
+		  <set rarity="Mythic Rare" num="0006" uuid="OTHER0006" picurl="https://i.imgur.com/YybJfuV.png">OTHER</set>
+	</card>
+	<card>
+   <name>Captain America, First Avenger</name>
+		  <set rarity="Mythic Rare" num="0007" uuid="OTHER0007" picurl="https://i.imgur.com/x961G6Z.png">OTHER</set>
+	</card>
+	<card>
+   <name>Dark Ritual</name>
+		  <set rarity="Mythic Rare" num="0008" uuid="OTHER0008" picurl="https://i.imgur.com/y7F0KPm.png">OTHER</set>
+	</card>
+	<card>
+   <name>Exploration</name>
+		  <set rarity="Mythic Rare" num="0009" uuid="OTHER0009" picurl="https://i.imgur.com/PzVrQ5o.png">OTHER</set>
+	</card>
+	<card>
+   <name>The Ozolith</name>
+		  <set rarity="Mythic Rare" num="0010" uuid="OTHER0010" picurl="https://i.imgur.com/AFQqvVs.png">OTHER</set>
+	</card>
+	<card>
+   <name>Urza's Saga</name>
+		  <set rarity="Mythic Rare" num="0011" uuid="OTHER0011" picurl="https://i.imgur.com/VsSqZFA.png">OTHER</set>
+	</card>
+	<card>
+   <name>Urborg, Tomb of Yawgmoth</name>
+		  <set rarity="Mythic Rare" num="0012" uuid="OTHER0012" picurl="https://i.imgur.com/e2T0qkp.png">OTHER</set>
+	</card>
+	<card>
+   <name>Rhoda, Geist Avenger</name>
+		  <set rarity="Mythic Rare" num="0013" uuid="OTHER0013" picurl="https://i.imgur.com/8xanGEO.png">OTHER</set>
+	</card>
+	<card>
+   <name>Timin, Youthful Geist</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="OTHER0014" picurl="https://i.imgur.com/FStR3CU.png">OTHER</set>
+	</card>
+	<card>
+   <name>Lier, Disciple of the Drowned</name>
+		  <set rarity="Mythic Rare" num="0015" uuid="OTHER0015" picurl="https://i.imgur.com/ZnWefco.png">OTHER</set>
+	</card>
+	<card>
+   <name>Rhystic Study</name>
+		  <set rarity="Mythic Rare" num="0016" uuid="OTHER0016" picurl="https://i.imgur.com/W4mnzT3.png">OTHER</set>
+	</card>
+	<card>
+   <name>Doubling Season</name>
+		  <set rarity="Mythic Rare" num="0017" uuid="OTHER0017" picurl="https://i.imgur.com/O68sYip.png">OTHER</set>
+	</card>
+	<card>
+   <name>Blade of Selves</name>
+		  <set rarity="Mythic Rare" num="0018" uuid="OTHER0018" picurl="https://i.imgur.com/rc3mC4z.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Mana Crypt</name>
+		  <set rarity="Mythic Rare" num="0019" uuid="OTHER0019" picurl="https://i.imgur.com/KmuHHeu.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Blood Artist</name>
+		  <set rarity="Mythic Rare" num="0020" uuid="OTHER0020" picurl="https://i.imgur.com/ClgKnhc.png">OTHER</set>
+	</card>
+	<card>
+   <name>Brenard, Ginger Sculptor</name>
+		  <set rarity="Mythic Rare" num="0021" uuid="OTHER0021" picurl="https://i.imgur.com/jzlvZcK.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Atraxa, Praetors' Voice</name>
+		  <set rarity="Mythic Rare" num="0022" uuid="OTHER0022" picurl="https://i.imgur.com/Z0Ngt1f.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>The Mycotyrant</name>
+		  <set rarity="Mythic Rare" num="0023" uuid="OTHER0023" picurl="https://i.imgur.com/GwdBULg.jpeg">OTHER</set>
+	</card>	
+	<card>
+   <name>Yuriko, the Tiger's Shadow</name>
+		  <set rarity="Mythic Rare" num="0024" uuid="OTHER0024" picurl="https://i.imgur.com/WcIogBi.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Baylen, the Haymaker</name>
+		  <set rarity="Mythic Rare" num="0025" uuid="OTHER0025" picurl="https://i.imgur.com/Qbizv47.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Syr Gwyn, Hero of Ashvale</name>
+		  <set rarity="Mythic Rare" num="0026" uuid="OTHER0026" picurl="https://i.imgur.com/KqOOxgf.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Rev, Tithe Extractor</name>
+		  <set rarity="Mythic Rare" num="0027" uuid="OTHER0027" picurl="https://i.imgur.com/TDXcDT6.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Parallel Lives</name>
+		  <set rarity="Mythic Rare" num="0028" uuid="OTHER0028" picurl="https://i.imgur.com/zqQM1gI.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Deflecting Swat</name>
+		  <set rarity="Mythic Rare" num="0030" uuid="OTHER0030" picurl="https://i.imgur.com/oq93xDa.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Three Tree City</name>
+		  <set rarity="Mythic Rare" num="0031" uuid="OTHER0031" picurl="https://i.imgur.com/s2GoCto.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Sol Ring</name>
+		  <set rarity="Mythic Rare" num="0032" uuid="OTHER0032" picurl="https://i.imgur.com/tDNUmko.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Rhystic Study</name>
+		  <set rarity="Mythic Rare" num="0033" uuid="OTHER0033" picurl="https://i.imgur.com/HxUTPyZ.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Displacer Kitten</name>
+		  <set rarity="Mythic Rare" num="0034" uuid="OTHER0034" picurl="https://i.imgur.com/X87qHpb.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Kinnan, Bonder Prodigy</name>
+		  <set rarity="Mythic Rare" num="0035" uuid="OTHER0035" picurl="https://i.imgur.com/P614T2p.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Sythis, Harvest's Hand</name>
+		  <set rarity="Mythic Rare" num="0036" uuid="OTHER0036" picurl="https://i.imgur.com/YcN6bGl.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Sheoldred, Whispering One</name>
+		  <set rarity="Mythic Rare" num="0037" uuid="OTHER0037" picurl="https://i.imgur.com/VUSwJ6f.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Counterspell</name>
+		  <set rarity="Mythic Rare" num="0038" uuid="OTHER0038" picurl="https://i.imgur.com/0DzIouw.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Deflecting Swat</name>
+		  <set rarity="Mythic Rare" num="0039" uuid="OTHER0039" picurl="https://i.imgur.com/7GDan2O.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Mystic Remora</name>
+		  <set rarity="Mythic Rare" num="0040" uuid="OTHER0040" picurl="https://i.imgur.com/CXWLm8V.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Teferi's Protection</name>
+		  <set rarity="Mythic Rare" num="0041" uuid="OTHER0041" picurl="https://i.imgur.com/Uq4Xln0.jpeg">OTHER</set>
+	</card>
+	 <name>Displacer Kitten</name>
+		  <set rarity="rare" num="0042" uuid="CM*0042" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
+	</card>
+	  
+# CM* (From https://customizedmtg.com/)
+	<card>
+		  <name>Displacer Kitten</name>
+		  <set rarity="rare" num="0001" uuid="CM*0001" picurl="https://i.imgur.com/LPaf5HR.png">CM*</set>
+		  <set rarity="rare" num="0002" uuid="CM*0002" picurl="https://i.imgur.com/HaAkiIg.png">CM*</set>
+		  <set rarity="rare" num="0003" uuid="CM*0003" picurl="https://i.imgur.com/zZLKvOZ.png">CM*</set>
+		  <set rarity="rare" num="0004" uuid="CM*0004" picurl="https://i.imgur.com/T01aQp6.png">CM*</set>
+		  <set rarity="rare" num="0005" uuid="CM*0005" picurl="https://i.imgur.com/7cohvhh.png">CM*</set>
+		  <set rarity="rare" num="0006" uuid="CM*0006" picurl="https://i.imgur.com/SAD9GRw.png">CM*</set>
+	</card>
+	<card>
+		  <name>Cynette, Jelly Drover</name>
+		  <set rarity="rare" num="0007" uuid="CM*0007" picurl="https://imgur.com/1tyadCJ.png">CM*</set>
+	</card>
+	<card>
+		  <name>Brigone, Soldier of Meletis</name>
+		  <set rarity="rare" num="0007" uuid="CM*0007" picurl="https://imgur.com/gYEuONp.png">CM*</set>
+	</card>
+	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
