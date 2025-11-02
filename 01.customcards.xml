@@ -68,8 +68,16 @@
           <set rarity="Mythic Rare" num="0007" uuid="M5%0007" picurl="https://imgur.com/W0QSScE.png">M5%</set>
 	</card>
 	<card>
+	   <name>Tifa, Martial Artist</name>
+		  <set rarity="Mythic Rare" num="0008" uuid="M5%0008" picurl="https://i.imgur.com/Elo9SsC.png">M5%</set>
+	</card>
+	<card>
 	   <name>Baylen, the Haymaker</name>
-		  <set rarity="Mythic Rare" num="0008" uuid="M5%0008" picurl="https://i.imgur.com/vXJ4klz.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0009" uuid="M5%0009" picurl="https://i.imgur.com/vXJ4klz.png">M5%</set>
+	</card>
+	<card>
+	   <name>Ian Malcolm, Chaoticianr</name>
+		  <set rarity="Mythic Rare" num="0010" uuid="M5%0010" picurl="https://i.imgur.com/Nesx5yf.png">M5%</set>
 	</card>
 	<card>
 	   <name>Vampiric Tutor</name>
@@ -77,35 +85,55 @@
 	</card>
 	<card>
    <name>Bloodline Pretender</name>
-		  <set rarity="Uncommon" num="0012" uuid="M5%0012" picurl="https://i.imgur.com/HApPtO2.png">M5%</set>
+		  <set rarity="Uncommon" num="0012" uuid="M5%0012" picurl="https://i.imgur.com/GwPKAJG.png">M5%</set>
 	</card>
 	<card>
    <name>Fire-Belly Changeling</name>
-		  <set rarity="Common" num="0013" uuid="M5%0013" picurl="https://i.imgur.com/bg2qm2D.png">M5%</set>
+		  <set rarity="Common" num="0013" uuid="M5%0013" picurl="https://i.imgur.com/aHjhWNo.png">M5%</set>
 	</card>
 	<card>
    <name>Mothdust Changeling</name>
-		  <set rarity="common" num="0014" uuid="M5%0014" picurl="https://i.imgur.com/iwfM59a.png">M5%</set>
+		  <set rarity="common" num="0014" uuid="M5%0014" picurl="https://i.imgur.com/dJZGs2d.png">M5%</set>
 	</card>
 	<card>
    <name>Taurean Mauler</name>
-		  <set rarity="Mythic Rare" num="0015" uuid="M5%0015" picurl="https://i.imgur.com/zhKsduL.png">M5%</set>
+		  <set rarity="Mythic Rare" num="0015" uuid="M5%0015" picurl="https://i.imgur.com/bJx9v3x.png">M5%</set>
+	</card>
+	<card>
+	   <name>Teferi, Who Slows the Sunset</name>
+		  <set rarity="Mythic Rare" num="0016" uuid="M5%0016" picurl="https://i.imgur.com/33uOyO1.png">M5%</set>
 	</card>
 	<card>
    <name>Metallic Mimic</name>
-		  <set rarity="Rare" num="0017" uuid="M5%0017" picurl="https://i.imgur.com/NSf8dZb.png">M5%</set>
+		  <set rarity="Rare" num="0017" uuid="M5%0017" picurl="https://i.imgur.com/uw9ZT76.png">M5%</set>
 	</card>
 	<card>
    <name>Thieving Otter</name>
-		  <set rarity="Common" num="0018" uuid="M5%0018" picurl="https://i.imgur.com/UwKhTn6.png">M5%</set>
+		  <set rarity="Common" num="0018" uuid="M5%0018" picurl="https://i.imgur.com/vsZtRP6.png">M5%</set>
 	</card>
 	<card>
    <name>Shapesharer</name>
-		  <set rarity="Rare" num="0019" uuid="M5%0019" picurl="https://i.imgur.com/8PvwK2j.png">M5%</set>
+		  <set rarity="Rare" num="0019" uuid="M5%0019" picurl="https://i.imgur.com/5Epby1E.png">M5%</set>
 	</card>
 	   <card>
 		  <name>Clara Oswald</name>
 		  <set rarity="Rare" uuid="M5%0020" picurl="https://imgur.com/lDW4L1C.png">M5%</set>
+	</card>
+	 <card>
+		  <name>Kestia, the Cultivator</name>
+		  <set rarity="Mythic" uuid="M5%0021" picurl="https://i.imgur.com/eSBsfmC.png">M5%</set>
+	</card>
+	<card>
+		  <name>Nekusar, the Mindrazer</name>
+		  <set rarity="Mythic" uuid="M5%0022" picurl="https://i.imgur.com/nmsYcaR.png">M5%</set>
+	</card>
+	 <card>
+		  <name>Stella Lee, Wild Card</name>
+		  <set rarity="Mythic" uuid="M5%0023" picurl="https://i.imgur.com/SVIOB9Q.png">M5%</set>
+	</card>
+	 <card>
+		  <name>Buxton, Decorated Host</name>
+		  <set rarity="Mythic" uuid="M5%0024" picurl="https://i.imgur.com/8FmORuo.png">M5%</set>
 	</card>
 	<card>
 		  <name>Temple Bell</name>
@@ -121,7 +149,7 @@
 	</card>
 	<card>
    <name>Universal Automaton</name>
-		  <set rarity="Common" num="0028" uuid="M5%0028" picurl="https://i.imgur.com/Ex4iJnw.png">M5%</set>
+		  <set rarity="Common" num="0028" uuid="M5%0028" picurl="https://i.imgur.com/z2zbBq0.png">M5%</set>
 	</card>
 	<card>
    <name>Sorin of House Markov</name>
@@ -131,6 +159,12 @@
    <name>Sorin, Ravenous Neonate</name>
 		  <set rarity="mythic rare" num="0030" uuid="M5%0030" picurl="https://i.imgur.com/7EDh5s1.png">M5%</set>
 	</card>
+	<card>
+   <name>Narset, Enlightened Master</name>
+		  <set rarity="mythic rare" num="0031" uuid="M5%0031" picurl="https://i.imgur.com/07TFuqG.png">M5%</set>
+	</card>
+	  
+	
 
 #UMA Cards (Marshmello)
 	<card>
@@ -994,6 +1028,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
