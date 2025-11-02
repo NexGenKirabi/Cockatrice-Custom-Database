@@ -196,8 +196,8 @@
 		  <set rarity="Uncommon" num="0039" uuid="M5%0039" picurl="https://i.imgur.com/wTHDPJw.png">M5%</set>
 	</card>
 	<card>
-   <name>Chandra, Flame of Kaladesh</name>
-		  <set rarity="mythic rare" num="0040" uuid="M5%0040" picurl="https://i.imgur.com/5eEs5Wk.png">M5%</set>
+   <name>Chandra, Fire of Kaladesh</name>
+		  <set rarity="mythic rare" num="0040" uuid="M5%0040" picurl="https://i.imgur.com/Wqh6Bcz.png">M5%</set>
 	</card>
 	<card>
    <name>Chandra, Roaring Flame</name>
@@ -1080,6 +1080,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
