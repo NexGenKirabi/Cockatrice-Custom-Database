@@ -211,6 +211,10 @@
    <name>Satoru Umezawa</name>
 		  <set rarity="mythic rare" num="0043" uuid="M5%0043" picurl="https://i.imgur.com/EbIonyl.png">M5%</set>
 	</card>
+	<card>
+	<name>Yuriko, the Tiger's Shadow</name>
+		  <set rarity="mythic rare" num="0044" uuid="M5%0044" picurl="https://i.imgur.com/FY7hlaI.png">M5%</set>
+	</card>
 	
 	
 
@@ -1076,6 +1080,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
