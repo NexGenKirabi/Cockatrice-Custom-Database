@@ -167,7 +167,51 @@
    <name>Chameleon, Master of Disguise</name>
 		  <set rarity="Uncommon" num="0032" uuid="M5%0032" picurl="https://i.imgur.com/iDkp0OM.png">M5%</set>
 	</card>
-	  
+	<card>
+   <name>Legolas, Master Archer</name>
+		  <set rarity="Rare" num="0033" uuid="M5%0033" picurl="https://i.imgur.com/2B2QD6g.png">M5%</set>
+	</card>
+	<card>
+   <name>Gimli, Mournfil Avenger</name>
+		  <set rarity="Rare" num="0034" uuid="M5%0034" picurl="https://i.imgur.com/s8SEKpi.png">M5%</set>
+	</card>
+	<card>
+   <name>Sensational Spider-Man</name>
+		  <set rarity="Rare" num="0035" uuid="M5%0035" picurl="https://i.imgur.com/G4Hsx5X.png">M5%</set>
+	</card>
+	<card>
+   <name>Cloud, Ex-SOLDIER</name>
+		  <set rarity="mythic rare" num="0036" uuid="M5%0036" picurl="https://i.imgur.com/2Iuajdh.png">M5%</set>
+	</card>
+	<card>
+   <name>Bria, Riptide Rogue</name>
+		  <set rarity="mythic rare" num="0037" uuid="M5%0037" picurl="https://i.imgur.com/gI9IEYy.png">M5%</set>
+	</card>
+	<card>
+   <name>Shelob, Child of Ungoliant</name>
+		  <set rarity="Rare" num="0038" uuid="M5%0038" picurl="https://i.imgur.com/zzzViCn.png">M5%</set>
+	</card>
+	<card>
+   <name>Kraum, Violent Cacophony</name>
+		  <set rarity="Uncommon" num="0039" uuid="M5%0039" picurl="https://i.imgur.com/wTHDPJw.png">M5%</set>
+	</card>
+	<card>
+   <name>Chandra, Flame of Kaladesh</name>
+		  <set rarity="mythic rare" num="0040" uuid="M5%0040" picurl="https://i.imgur.com/5eEs5Wk.png">M5%</set>
+	</card>
+	<card>
+   <name>Chandra, Roaring Flame</name>
+		  <set rarity="mythic rare" num="0041" uuid="M5%0041" picurl="https://i.imgur.com/5eEs5Wk.png">M5%</set>
+	</card>
+	<card>
+   <name>ht-Paws, Emperor's Voice</name>
+		  <set rarity="mythic rare" num="0042" uuid="M5%0042" picurl="https://i.imgur.com/rTOY3QV.png">M5%</set>
+	</card>
+	<card>
+   <name>Satoru Umezawa</name>
+		  <set rarity="mythic rare" num="0043" uuid="M5%0043" picurl="https://i.imgur.com/EbIonyl.png">M5%</set>
+	</card>
+	
 	
 
 #UMA Cards (Marshmello)
@@ -1032,6 +1076,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
