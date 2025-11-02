@@ -715,10 +715,10 @@
 		  <set rarity="Mythic Rare" num="0053" uuid="CMC*0053" picurl="https://i.imgur.com/w81Ytpl.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0054" uuid="CMC*0054" picurl="https://i.imgur.com/zP9dJer.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0055" uuid="CMC*0055" picurl="https://i.imgur.com/u8i3hwB.jpeg">CMC*</set>
-		  <set rarity="Mythic Rare" num="0056" uuid="CMC*0056" picurl="https://i.imgur.com/5rMxgdD.jpeg">CMC*</set>
 	</card>
 	<card>
 		  <name>Grand Abolisher</name>
+		  <set rarity="Mythic Rare" num="0056" uuid="CMC*0056" picurl="https://i.imgur.com/5rMxgdD.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0057" uuid="CMC*0057" picurl="https://i.imgur.com/VX053aV.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0058" uuid="CMC*0058" picurl="https://i.imgur.com/yM4Xkh1.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0059" uuid="CMC*0059" picurl="https://i.imgur.com/D5Cu3GE.jpeg">CMC*</set>
@@ -1032,6 +1032,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
