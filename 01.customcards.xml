@@ -204,7 +204,7 @@
 		  <set rarity="mythic rare" num="0041" uuid="M5%0041" picurl="https://i.imgur.com/iAA97qr.png">M5%</set>
 	</card>
 	<card>
-   <name>ht-Paws, Emperor's Voice</name>
+   <name>Light-Paws, Emperor's Voice</name>
 		  <set rarity="mythic rare" num="0042" uuid="M5%0042" picurl="https://i.imgur.com/rTOY3QV.png">M5%</set>
 	</card>
 	<card>
@@ -1076,6 +1076,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
