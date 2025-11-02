@@ -163,6 +163,10 @@
    <name>Narset, Enlightened Master</name>
 		  <set rarity="mythic rare" num="0031" uuid="M5%0031" picurl="https://i.imgur.com/07TFuqG.png">M5%</set>
 	</card>
+	<card>
+   <name>Chameleon, Master of Disguise</name>
+		  <set rarity="Uncommon" num="0032" uuid="M5%0032" picurl="https://i.imgur.com/iDkp0OM.png">M5%</set>
+	</card>
 	  
 	
 
@@ -517,7 +521,7 @@
 	</card>
 	<card>
 	 <name>Bria, Riptide Rogue</name>
-		  <set rarity="Mythic Rare" num="0049" uuid="OTHER0049" picurl="https://imgur.com/Zm3cPfa.png">OTHER</set>
+		  <set rarity="Mythic Rare" num="0049" uuid="OTHER0049" picurl="https://i.imgur.com/0bLdTQs.jpeg">OTHER</set>
 	</card>
 	<card>
 	 <name>Pollywog Prodigy</name>
@@ -957,7 +961,7 @@
 		  <set rarity="Mythic Rare" num="0195" uuid="CMC*0195" picurl="https://i.imgur.com/ALNFkc1.jpeg">CMC*</set>
 	</card>
 	<card>
-		  <name>Stip Mine</name>
+		  <name>Strip Mine</name>
 		  <set rarity="Mythic Rare" num="0196" uuid="CMC*0196" picurl="https://i.imgur.com/nzDFypM.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0197" uuid="CMC*0197" picurl="https://i.imgur.com/WJ7Q9vn.jpeg">CMC*</set>
 		  <set rarity="Mythic Rare" num="0198" uuid="CMC*0198" picurl="https://i.imgur.com/z4o4sMm.jpeg">CMC*</set>
@@ -1028,6 +1032,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
