@@ -172,8 +172,8 @@
 		  <set rarity="Rare" num="0033" uuid="M5%0033" picurl="https://i.imgur.com/2B2QD6g.png">M5%</set>
 	</card>
 	<card>
-   <name>Gimli, Mournfil Avenger</name>
-		  <set rarity="Rare" num="0034" uuid="M5%0034" picurl="https://i.imgur.com/s8SEKpi.png">M5%</set>
+   <name>Gimli, Mournful Avenger</name>
+		  <set rarity="Rare" num="0034" uuid="M5%0034" picurl="https://i.imgur.com/NKoUAXR.png">M5%</set>
 	</card>
 	<card>
    <name>Sensational Spider-Man</name>
@@ -201,7 +201,7 @@
 	</card>
 	<card>
    <name>Chandra, Roaring Flame</name>
-		  <set rarity="mythic rare" num="0041" uuid="M5%0041" picurl="https://i.imgur.com/5eEs5Wk.png">M5%</set>
+		  <set rarity="mythic rare" num="0041" uuid="M5%0041" picurl="https://i.imgur.com/iAA97qr.png">M5%</set>
 	</card>
 	<card>
    <name>ht-Paws, Emperor's Voice</name>
@@ -1076,6 +1076,7 @@
 	  
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
