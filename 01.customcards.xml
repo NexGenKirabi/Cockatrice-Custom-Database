@@ -1270,14 +1270,15 @@
 		  <set rarity="Rare" num="0227" uuid="CMC*0227" picurl="https://i.imgur.com/MMjhrKV.png">CMC*</set>
 		  <set rarity="Rare" num="0228" uuid="CMC*0228" picurl="https://i.imgur.com/hiVppXT.png">CMC*</set>
 		  <set rarity="Rare" num="0229" uuid="CMC*0229" picurl="https://i.imgur.com/u9kNlqS.png">CMC*</set>
-		  <set rarity="Rare" num="0229" uuid="CMC*0229" picurl="https://i.imgur.com/TdEc46m.png">CMC*</set>
+		  <set rarity="Rare" num="0220" uuid="CMC*0230" picurl="https://i.imgur.com/TdEc46m.png">CMC*</set>
 	</card>
 	<card>
 		  <name>Mister Negative</name>
-		  <set rarity="Mythic Rare" num="0222" uuid="CMC*0222" picurl="https://i.imgur.com/NuzV3jo.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0231" uuid="CMC*0231" picurl="https://i.imgur.com/NuzV3jo.png">CMC*</set>
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
