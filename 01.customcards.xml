@@ -812,7 +812,7 @@
 		  <set rarity="Mythic Rare" num="0101" uuid="OTHER0101" picurl="https://i.imgur.com/G6b7VSh.png">OTHER</set>
 	</card>
   	<card>
-   <name>V and Johnny, Two Souls</name>
+   <name>Veyran, Voice of Duality</name>
 		  <set rarity="Mythic Rare" num="0102" uuid="OTHER0102" picurl="https://i.imgur.com/LLkmLps.png">OTHER</set>
 	</card>
 	  
@@ -1322,6 +1322,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
