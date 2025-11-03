@@ -627,7 +627,7 @@
 	</card>
 		<card>
    <name>Season of the Bold</name>
-		  <set rarity="Mythic Rare" num="0065" uuid="OTHER0065" picurl="https://i.imgur.com/1oBv0Br.jpeg">OTHER</set>
+		  <set rarity="Mythic Rare" num="0065" uuid="OTHER0065" picurl="https://i.imgur.com/qQPD8vd.png">OTHER</set>
 	</card>
 	<card>
    <name>Season of Weaving</name>
@@ -737,7 +737,7 @@
 	</card>
 	<card>
    <name>Jaws, Relentless Predator</name>
-		  <set rarity="Mythic Rare" num="0094" uuid="OTHER0094" picurl="https://i.imgur.com/xEb2UWq.png">OTHER</set>
+		  <set rarity="Mythic Rare" num="0094" uuid="OTHER0094" picurl="https://i.imgur.com/Lt6EO5a.png">OTHER</set>
 	</card>
 		<card>
    <name>Kibo, Uktabi Prince</name>
@@ -1278,6 +1278,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
