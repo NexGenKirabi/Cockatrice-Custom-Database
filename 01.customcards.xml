@@ -761,7 +761,7 @@
 	</card>
 	<card>
    <name>Meathook Massacre II</name>
-		  <set rarity="Mythic Rare" num="0100" uuid="OTHER0100" picurl="https://i.imgur.com/mWalq74.png">OTHER</set>
+		  <set rarity="Mythic Rare" num="0100" uuid="OTHER0100" picurl="https://i.imgur.com/wlRUBeL.png">OTHER</set>
 	</card>
 		<card>
    <name>Sol Ring</name>
@@ -1278,6 +1278,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
