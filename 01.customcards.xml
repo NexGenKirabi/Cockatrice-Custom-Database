@@ -771,6 +771,50 @@
    <name>Nashi, Searcher in the Dark</name>
 		  <set rarity="Mythic Rare" num="0102" uuid="OTHER0102" picurl="https://i.imgur.com/WxzXu0M.png">OTHER</set>
 	</card>
+	<card>
+   <name>Sword of the Animist</name>
+		  <set rarity="Mythic Rare" num="0097" uuid="OTHER0097" picurl="https://i.imgur.com/UxCqyXC.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Damnation</name>
+		  <set rarity="Mythic Rare" num="0098" uuid="OTHER0098" picurl="https://i.imgur.com/G532Bze.jpeg">OTHER</set>
+	</card>
+		<card>
+   <name>Sword of Wealth and Power</name>
+		  <set rarity="Mythic Rare" num="0099" uuid="OTHER0099" picurl="https://i.imgur.com/cqL7au4.jpeg">OTHER</set>
+	</card>
+	<card>
+   <name>Narset, Parter of Veils</name>
+		  <set rarity="Mythic Rare" num="0100" uuid="OTHER0100" picurl="https://i.imgur.com/ihZI5AC.jpeg">OTHER</set>
+	</card>
+		<card>
+   <name>Voja, Jaws of the Conclave</name>
+		  <set rarity="Mythic Rare" num="0101" uuid="OTHER0101" picurl="https://i.imgur.com/FccviU1.jpeg">OTHER</set>
+	</card>
+  	<card>
+   <name>The Ur-Dragon</name>
+		  <set rarity="Mythic Rare" num="0102" uuid="OTHER0102" picurl="https://i.imgur.com/25ZtkFq.png">OTHER</set>
+	</card>
+	<card>
+   <name>Squee, the Immortal</name>
+		  <set rarity="Mythic Rare" num="0098" uuid="OTHER0098" picurl="https://i.imgur.com/fWJHF7q.png">OTHER</set>
+	</card>
+		<card>
+   <name>Pyromancer's Goggles</name>
+		  <set rarity="Mythic Rare" num="0099" uuid="OTHER0099" picurl="https://i.imgur.com/6ORkRgI.png">OTHER</set>
+	</card>
+	<card>
+   <name>Toby, Beastie Befriender</name>
+		  <set rarity="Mythic Rare" num="0100" uuid="OTHER0100" picurl="https://i.imgur.com/ffsAtLr.png">OTHER</set>
+	</card>
+		<card>
+   <name>Cruel Ultimatum</name>
+		  <set rarity="Mythic Rare" num="0101" uuid="OTHER0101" picurl="https://i.imgur.com/G6b7VSh.png">OTHER</set>
+	</card>
+  	<card>
+   <name>V and Johnny, Two Souls</name>
+		  <set rarity="Mythic Rare" num="0102" uuid="OTHER0102" picurl="https://i.imgur.com/LLkmLps.png">OTHER</set>
+	</card>
 	  
 # CM* (From https://customizedmtg.com/)
 	<card>
@@ -1278,6 +1322,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
