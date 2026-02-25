@@ -233,7 +233,7 @@
 	</card>
 	<card>
    <name>Wedding Ring</name>
-		  <set rarity="Mythic Rare" num="0103" uuid="UMA*0103" picurl="https://i.imgur.com/jzlvZcK.jpeg">UMA*</set>
+		  <set rarity="Mythic Rare" num="0103" uuid="UMA*0103" picurl="https://i.imgur.com/nNfiRgP.png">UMA*</set>
 	</card>
 	<card>
    <name>Vampiric Tutor</name>
@@ -1322,6 +1322,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
