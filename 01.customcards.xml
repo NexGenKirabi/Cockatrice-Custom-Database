@@ -215,7 +215,10 @@
 	<name>Yuriko, the Tiger's Shadow</name>
 		  <set rarity="mythic rare" num="0044" uuid="M5%0044" picurl="https://i.imgur.com/FY7hlaI.png">M5%</set>
 	</card>
-	
+	<card>
+	<name>Mirrored Lotus</name>
+		  <set rarity="mythic rare" num="0044" uuid="M5%0044" picurl="https://i.imgur.com/3HZ0bc6.png">M5%</set>
+	</card>
 	
 
 #UMA Cards (Marshmello)
@@ -1322,6 +1325,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
