@@ -217,9 +217,16 @@
 	</card>
 	<card>
 	<name>Mirrored Lotus</name>
-		  <set rarity="mythic rare" num="0044" uuid="M5%0044" picurl="https://i.imgur.com/3HZ0bc6.png">M5%</set>
+		  <set rarity="mythic rare" num="0045" uuid="M5%0045" picurl="https://i.imgur.com/3HZ0bc6.png">M5%</set>
 	</card>
-	
+		<card>
+	<name>Niko, Light of Hope</name>
+		  <set rarity="mythic rare" num="0046" uuid="M5%0046" picurl="https://i.imgur.com/nRmy0UV.png">M5%</set>
+	</card>
+	<card>
+	<name>Shard</name>
+		  <set  num="0047" uuid="M5%0047" picurl="https://i.imgur.com/nRmy0UV.png">M5%</set>
+	</card>
 
 #UMA Cards (Marshmello)
 	<card>
@@ -1325,6 +1332,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
