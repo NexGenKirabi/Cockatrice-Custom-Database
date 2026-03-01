@@ -224,7 +224,7 @@
 		  <set rarity="mythic rare" num="0046" uuid="M5%0046" picurl="https://i.imgur.com/nRmy0UV.png">M5%</set>
 	</card>
 	<card>
-	<name>Shard</name>
+	<name>Shard Token</name>
 		  <set  num="0047" uuid="M5%0047" picurl="https://i.imgur.com/nRmy0UV.png">M5%</set>
 	</card>
 
@@ -1332,6 +1332,7 @@
 	</card>
   </cards>
 </cockatrice_carddatabase>
+
 
 
 
