@@ -429,6 +429,10 @@
    <name>Mathemagics</name>
 		  <set rarity="Mythic Rare" num="0149" uuid="UMA*0149" picurl="https://i.imgur.com/Iicy8Vy.png">UMA*</set>
 	</card>
+	<card>
+   <name>Gisela, Blade of Goldnight</name>
+		  <set rarity="Mythic Rare" num="0150" uuid="UMA*0150" picurl="https://i.imgur.com/v4jHQ3Q.png">UMA*</set>
+	</card>
 	
 # BREAD Cards (Zombielord)
 	<card>
@@ -439,6 +443,7 @@
    <name>Damnation</name>
 		  <set rarity="Mythic Rare" num="1001" uuid="BREAD1001" picurl="https://i.imgur.com/MoDO0WH.png">BREAD</set>
 	</card>
+	
 	  
 # Other Cards (From the internet)
 	<card>
