@@ -433,6 +433,18 @@
    <name>Gisela, Blade of Goldnight</name>
 		  <set rarity="Mythic Rare" num="0150" uuid="UMA*0150" picurl="https://i.imgur.com/v4jHQ3Q.png">UMA*</set>
 	</card>
+	<card>
+   <name>Sheltered by Ghosts</name>
+		  <set rarity="Mythic Rare" num="0151" uuid="UMA*0151" picurl="https://i.imgur.com/eKRA9Fb.png">UMA*</set>
+	</card>
+	<card>
+   <name>Tishana's Tidebinder</name>
+		  <set rarity="Mythic Rare" num="0152" uuid="UMA*0152" picurl="https://i.imgur.com/fYkgoSm.png">UMA*</set>
+	</card>
+	<card>
+   <name>Unstoppable Slasher</name>
+		  <set rarity="Mythic Rare" num="0153" uuid="UMA*0153" picurl="https://i.imgur.com/ySAklZO.png">UMA*</set>
+	</card>
 	
 # BREAD Cards (Zombielord)
 	<card>
