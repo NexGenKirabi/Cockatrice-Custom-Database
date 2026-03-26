@@ -882,6 +882,10 @@
    <name>Veyran, Voice of Duality</name>
 		  <set rarity="Mythic Rare" num="0102" uuid="OTHER0102" picurl="https://i.imgur.com/LLkmLps.png">OTHER</set>
 	</card>
+	  	<card>
+   <name>Arabella, Abandoned Doll</name>
+		  <set rarity="Mythic Rare" num="0103" uuid="OTHER0103" picurl="https://i.imgur.com/Ebwd8E2.png">OTHER</set>
+	</card>
 	  
 # CM* (From https://customizedmtg.com/)
 	<card>
@@ -1440,10 +1444,73 @@
 		  <set rarity="Mythic Rare" num="0244" uuid="CMC*0244" picurl="https://i.imgur.com/2ni1Y9H.png">CMC*</set>
 	</card>
 	<card>
-		  <name>Lutri, Spellchaser</name>
+		  <name>Lutri, the Spellchaser</name>
 		  <set rarity="Mythic Rare" num="0245" uuid="CMC*0245" picurl="https://i.imgur.com/3lA7APk.png">CMC*</set>
 	</card>
-	
+	<card>
+		  <name>Maralen, Fae Ascendant</name>
+		  <set rarity="Mythic Rare" num="0246" uuid="CMC*0246" picurl="https://i.imgur.com/UUeBzNW.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Marina Vendrell</name>
+		  <set rarity="Mythic Rare" num="0247" uuid="CMC*0247" picurl="https://i.imgur.com/ikq4jlh.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Maximus, Knight Apparent</name>
+		  <set rarity="Mythic Rare" num="0248" uuid="CMC*0248" picurl="https://i.imgur.com/ikq4jlh.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Niko, Light of Hope</name>
+		  <set rarity="Mythic Rare" num="0249" uuid="CMC*0249" picurl="https://i.imgur.com/1a2CIFF.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Obosh, the Preypiercer</name>
+		  <set rarity="Mythic Rare" num="0250" uuid="CMC*0250" picurl="https://i.imgur.com/0v4zc5z.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Rendmaw, Creaking Nest</name>
+		  <set rarity="Mythic Rare" num="0251" uuid="CMC*0251" picurl="https://i.imgur.com/FcNg8dd.png">CMC*</set>
+	</card>
+	<card>
+		  <name>The Ghoul, Gunslinger</name>
+		  <set rarity="Mythic Rare" num="0252" uuid="CMC*0252" picurl="https://i.imgur.com/U1aBpXH.png">CMC*</set>
+	</card>
+	<card>
+		  <name>The Jolly Balloon Man</name>
+		  <set rarity="Mythic Rare" num="0253" uuid="CMC*0253" picurl="https://i.imgur.com/cgB2JmF.png">CMC*</set>
+	</card>
+	<card>
+		  <name>The Lord of Pain</name>
+		  <set rarity="Mythic Rare" num="0254" uuid="CMC*0254" picurl="https://i.imgur.com/jUmw9Ci.png">CMC*</set>
+	</card>
+	<card>
+		  <name>The Master of Keys</name>
+		  <set rarity="Mythic Rare" num="0255" uuid="CMC*0255" picurl="https://i.imgur.com/9emsQUD.png">CMC*</set>
+	</card>
+	<card>
+		  <name>The Reaper, King No More</name>
+		  <set rarity="Mythic Rare" num="0256" uuid="CMC*0256" picurl="https://i.imgur.com/ggECP04.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Umori, the Collector</name>
+		  <set rarity="Mythic Rare" num="0257" uuid="CMC*0257" picurl="https://i.imgur.com/rDaAAGq.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Valgavoth, Harrower of Souls</name>
+		  <set rarity="Mythic Rare" num="0258" uuid="CMC*0258" picurl="https://i.imgur.com/YdbIkV8.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Yorion, Sky Nomad</name>
+		  <set rarity="Mythic Rare" num="0259" uuid="CMC*0259" picurl="https://i.imgur.com/vL8TGtt.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Zimone, Mystery Unraverler</name>
+		  <set rarity="Mythic Rare" num="0260" uuid="CMC*0260" picurl="https://i.imgur.com/TsM9R2H.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Zirda, the Dawnwalker</name>
+		  <set rarity="Mythic Rare" num="0261" uuid="CMC*0261" picurl="https://i.imgur.com/7rhLAj1.png">CMC*</set>
+	</card>
 	
   </cards>
 </cockatrice_carddatabase>
