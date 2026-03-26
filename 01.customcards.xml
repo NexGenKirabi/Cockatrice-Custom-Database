@@ -1387,6 +1387,32 @@
 		  <name>Mister Negative</name>
 		  <set rarity="Mythic Rare" num="0231" uuid="CMC*0231" picurl="https://i.imgur.com/NuzV3jo.png">CMC*</set>
 	</card>
+	<card>
+		  <name>Aminatou, Veil Piercer</name>
+		  <set rarity="Mythic Rare" num="0232" uuid="CMC*0232" picurl="https://i.imgur.com/eoPHaGQ.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Auntie Ool, Cursewretch</name>
+		  <set rarity="Mythic Rare" num="0233" uuid="CMC*0233" picurl="https://i.imgur.com/4vByJZJ.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Arabella, Abandoned Doll</name>
+		  <set rarity="Mythic Rare" num="0234" uuid="CMC*0234" picurl="https://i.imgur.com/Qcdm7ow.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Ashling, the Limitless</name>
+		  <set rarity="Mythic Rare" num="0235" uuid="CMC*0235" picurl="https://i.imgur.com/Rfh8IdD.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Aminatou, Veil Piercer</name>
+		  <set rarity="Mythic Rare" num="0236" uuid="CMC*0236" picurl="https://i.imgur.com/eoPHaGQ.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Aminatou, Veil Piercer</name>
+		  <set rarity="Mythic Rare" num="0232" uuid="CMC*0232" picurl="https://i.imgur.com/eoPHaGQ.png">CMC*</set>
+	</card>
+	
+	
   </cards>
 </cockatrice_carddatabase>
 
