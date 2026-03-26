@@ -1511,6 +1511,38 @@
 		  <name>Zirda, the Dawnwalker</name>
 		  <set rarity="Mythic Rare" num="0261" uuid="CMC*0261" picurl="https://i.imgur.com/7rhLAj1.png">CMC*</set>
 	</card>
+	<card>
+		  <name>Tishana's Tidebinder</name>
+		  <set rarity="Mythic Rare" num="0262" uuid="CMC*0262" picurl="https://i.imgur.com/gDxOoZp.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0263" uuid="CMC*0263" picurl="https://i.imgur.com/7ExDzdZ.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0264" uuid="CMC*0264" picurl="https://i.imgur.com/WZy3NU4.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0265" uuid="CMC*0265" picurl="https://i.imgur.com/lc39asm.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0266" uuid="CMC*0266" picurl="https://i.imgur.com/1vHZo3X.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0267" uuid="CMC*0267" picurl="https://i.imgur.com/jJ4YE1W.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0268" uuid="CMC*0268" picurl="https://i.imgur.com/m0RPRfp.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0269" uuid="CMC*0269" picurl="https://i.imgur.com/yaqb6YH.png">CMC*</set>
+		  <set rarity="Mythic Rare" num="0270" uuid="CMC*0270" picurl="https://i.imgur.com/NmcQdKj.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Brigid, Clachan's Heart</name>
+		  <set rarity="Mythic Rare" num="0271" uuid="CMC*0271" picurl="https://i.imgur.com/v67rOFv.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Brigid, Doun's Mind</name>
+		  <set rarity="Mythic Rare" num="0272" uuid="CMC*0272" picurl="https://i.imgur.com/sGuW3QB.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Grub, Notorious Auntie</name>
+		  <set rarity="Mythic Rare" num="0273" uuid="CMC*0273" picurl="https://i.imgur.com/VkXX2sM.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Grub, Storied Matriarch</name>
+		  <set rarity="Mythic Rare" num="0274" uuid="CMC*0274" picurl="https://i.imgur.com/ipqxl6W.png">CMC*</set>
+	</card>
+	<card>
+		  <name>Opalescence</name>
+		  <set rarity="Mythic Rare" num="0275" uuid="CMC*0275" picurl="https://i.imgur.com/n44LdEt.png">CMC*</set>
+	</card>
 	
   </cards>
 </cockatrice_carddatabase>
