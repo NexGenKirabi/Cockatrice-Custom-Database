@@ -23,6 +23,15 @@
 		  <releasedate>2025-10-30</releasedate>
 		</set>
 
+# Adam's Card Set
+	  <set>
+		   <name>AMTG</name>
+		  <longname>Adam's Cards</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2026-04-14</releasedate>
+		</set>
+
+
 # Lance's Card Set
 		<set>
 		   <name>UMA*</name>
@@ -455,7 +464,17 @@
    <name>Damnation</name>
 		  <set rarity="Mythic Rare" num="1001" uuid="BREAD1001" picurl="https://i.imgur.com/MoDO0WH.png">BREAD</set>
 	</card>
-	
+	  
+	# Adam Cards (Escocia)
+	<card>
+   <name>Chandra, Awakened Inferno</name>
+		  <set rarity="Mythic Rare" num="0001" uuid="AMTG001" picurl="https://i.imgur.com/9LttC3v.png">AMTG</set>
+		  <set rarity="Mythic Rare" num="0002" uuid="AMTG002" picurl="https://i.imgur.com/rGq0KDU.png">AMTG</set>
+	</card>
+	<card>
+   <name>Damnation</name>
+		  <set rarity="Mythic Rare" num="1001" uuid="BREAD1001" picurl="https://i.imgur.com/MoDO0WH.png">BREAD</set>
+	</card>
 	  
 # Other Cards (From the internet)
 	<card>
