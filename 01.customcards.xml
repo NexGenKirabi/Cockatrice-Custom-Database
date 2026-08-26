@@ -943,7 +943,10 @@
    <name>Kaervek the Merciless</name>
 		  <set rarity="Mythic Rare" num="0105" uuid="OTHER0105" picurl="https://i.imgur.com/Ebwd8E2.png">OTHER</set>
 	</card>
-	 
+	 <card>
+   <name>Brigid, Who's Seen Some Stuff</name>
+		  <set rarity="Mythic Rare" num="0106" uuid="OTHER0106" picurl="https://i.imgur.com/pkQwZkn.jpeg">OTHER</set>
+	</card>
 	  
 # CM* (From https://customizedmtg.com/)
 	<card>
