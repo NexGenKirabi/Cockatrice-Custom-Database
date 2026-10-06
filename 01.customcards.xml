@@ -1737,6 +1737,35 @@
    <name>Uugguu, the Omniplasm</name>
 		  <set rarity="Mythic Rare" num="0007" uuid="GXSF0007" picurl="https://i.imgur.com/xFB5uyZ.png">GXSF</set>
 	</card>
+	<card>
+   <name>Ancient Copper Dragon</name>
+		  <set rarity="Mythic Rare" num="0008" uuid="GXSF0008" picurl="https://i.imgur.com/krCfwwZ.png">GXSF</set>
+	</card>
+	<card>
+   <name>Dauthi Voidwalker</name>
+		  <set rarity="Mythic Rare" num="0009" uuid="GXSF0009" picurl="https://i.imgur.com/WquXsMP.png">GXSF</set>
+	</card>
+	<card>
+   <name>Dockside Extortionist</name>
+		  <set rarity="Mythic Rare" num="0010" uuid="GXSF0010" picurl="https://i.imgur.com/RVyYJjB.png">GXSF</set>
+	</card>
+	<card>
+   <name>Esper Sentinel</name>
+		  <set rarity="Mythic Rare" num="0011" uuid="GXSF0011" picurl="https://i.imgur.com/VBAFS45.png">GXSF</set>
+	</card>
+		<card>
+   <name>Ojer Axonil, Deepest Might</name>
+		  <set rarity="Mythic Rare" num="0012" uuid="GXSF0012" picurl="https://i.imgur.com/GHgaEt7.png">GXSF</set>
+	</card>
+		<card>
+   <name>Portal to Phyrexia</name>
+		  <set rarity="Mythic Rare" num="0013" uuid="GXSF0013" picurl="https://i.imgur.com/Zd8QSkZ.png">GXSF</set>
+	</card>
+		<card>
+   <name>Sheoldred, the Apocalypse</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="https://i.imgur.com/FNLLp9P.png">GXSF</set>
+	</card>
+	
 	
   </cards>
 </cockatrice_carddatabase>
