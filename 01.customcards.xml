@@ -61,7 +61,7 @@
 		   <name>GXSF</name>
 		  <longname>GoD ⚔ Salvo's Finds</longname>
 		  <settype>Custom</settype>
-		  <releasedate>2025-10-30</releasedate>
+		  <releasedate>2026-10-6</releasedate>
 		</set>
   </sets>
 
@@ -592,10 +592,7 @@
 		  <set rarity="Mythic Rare" num="0001" uuid="AMTG001" picurl="https://i.imgur.com/9LttC3v.png">AMTG</set>
 		  <set rarity="Mythic Rare" num="0002" uuid="AMTG002" picurl="https://i.imgur.com/rGq0KDU.png">AMTG</set>
 	</card>
-	<card>
-   <name>Damnation</name>
-		  <set rarity="Mythic Rare" num="1001" uuid="BREAD1001" picurl="https://i.imgur.com/MoDO0WH.png">BREAD</set>
-	</card>
+	
 	  
 # Other Cards (From the internet)
 	<card>
@@ -1765,7 +1762,242 @@
    <name>Sheoldred, the Apocalypse</name>
 		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="https://i.imgur.com/FNLLp9P.png">GXSF</set>
 	</card>
-	
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0015" uuid="GXSF0015" picurl="https://i.imgur.com/hkUkyvr.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Black Market Connections</name>
+		  <set rarity="Mythic Rare" num="0016" uuid="GXSF0016" picurl="https://i.imgur.com/7gazoGf.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Blightsteel Colossus</name>
+		  <set rarity="Mythic Rare" num="0017" uuid="GXSF0017" picurl="https://i.imgur.com/rzMFX98.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Blind Obedience</name>
+		  <set rarity="Mythic Rare" num="0018" uuid="GXSF0018" picurl="https://i.imgur.com/MiNo6tC.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Bloodchief Ascension</name>
+		  <set rarity="Mythic Rare" num="0019" uuid="GXSF0019" picurl="https://i.imgur.com/ZgpW3uy.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Bolas's Citadel</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="https://i.imgur.com/u6YvRg8.png">GXSF</set>
+	</card>
+	<card>
+   <name>Chrome Mox</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="https://i.imgur.com/XLjFGX1.png">GXSF</set>
+	</card>
+	<card>
+   <name>Eerie Interlude</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="https://i.imgur.com/52F3VSy.gif">GXSF</set>
+	</card>
+	<card>
+   <name>Emrakul, the Promised End</name>
+		  <set rarity="Mythic Rare" num="0015" uuid="GXSF0015" picurl="https://i.imgur.com/W4TUewP.png">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Fiery Emancipation</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="https://i.imgur.com/IOmq7o2.png">GXSF</set>
+	</card>
+	<card>
+   <name>God-Eternal Oketra</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="https://i.imgur.com/QcFGJqa.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Goldspan Dragon</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
+	<card>
+   <name>Badlands</name>
+		  <set rarity="Mythic Rare" num="0014" uuid="GXSF0014" picurl="blob:https://imgur.com/c04f52db-58e8-49b7-a09d-2b683d1079a6">GXSF</set>
+	</card>
 	
   </cards>
 </cockatrice_carddatabase>
