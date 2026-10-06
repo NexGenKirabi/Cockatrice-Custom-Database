@@ -55,6 +55,14 @@
 		  <settype>Custom</settype>
 		  <releasedate>2025-10-30</releasedate>
 		</set>
+
+# GoD ⚔ Salvo's Finds
+	<set>
+		   <name>GXSF</name>
+		  <longname>GoD ⚔ Salvo's Finds</longname>
+		  <settype>Custom</settype>
+		  <releasedate>2025-10-30</releasedate>
+		</set>
   </sets>
 
   <cards>
@@ -1043,7 +1051,7 @@
 		  <set rarity="Mythic Rare" num="0106" uuid="OTHER0106" picurl="https://i.imgur.com/pkQwZkn.jpeg">OTHER</set>
 	</card>
 	  
-# CM* (From https://customizedmtg.com/)
+# CMC* (From https://customizedmtg.com/)
 	<card>
 		  <name>Displacer Kitten</name>
 		  <set rarity="Mythic Rare" num="0001" uuid="CMC*0001" picurl="https://i.imgur.com/LPaf5HR.png">CMC*</set>
@@ -1698,6 +1706,36 @@
 	<card>
 		  <name>Opalescence</name>
 		  <set rarity="Mythic Rare" num="0275" uuid="CMC*0275" picurl="https://i.imgur.com/n44LdEt.png">CMC*</set>
+	</card>
+	
+		# GoD ⚔ Salvo's Finds (GoD ⚔ Salvo)
+	<card>
+   <name>Chains of Mephistopheles</name>
+		  <set rarity="Mythic Rare" num="0001" uuid="GXSF0001" picurl="https://i.imgur.com/bmk9bYd.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Consuming Aberration</name>
+		  <set rarity="Mythic Rare" num="0002" uuid="GXSF0002" picurl="https://i.imgur.com/ZKcW4N5.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Mondrak, Glory Dominus</name>
+		  <set rarity="Mythic Rare" num="0003" uuid="GXSF0003" picurl="https://i.imgur.com/ViTxY8f.png">GXSF</set>
+	</card>
+	<card>
+   <name>Nyxbloom Ancient</name>
+		  <set rarity="Mythic Rare" num="0004" uuid="GXSF0004" picurl="https://i.imgur.com/ViTxY8f.png">GXSF</set>
+	</card>
+	<card>
+   <name>Super State</name>
+		  <set rarity="Mythic Rare" num="0005" uuid="GXSF0005" picurl="https://i.imgur.com/3RZESaE.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Tymna the Weaver</name>
+		  <set rarity="Mythic Rare" num="0006" uuid="GXSF0006" picurl="https://i.imgur.com/9i1KeHN.jpeg">GXSF</set>
+	</card>
+	<card>
+   <name>Uugguu, the Omniplasm</name>
+		  <set rarity="Mythic Rare" num="0007" uuid="GXSF0007" picurl="https://i.imgur.com/xFB5uyZ.png">GXSF</set>
 	</card>
 	
   </cards>
