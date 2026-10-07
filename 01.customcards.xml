@@ -4810,7 +4810,7 @@
 			<set rarity="Mythic Rare" num="0777" uuid="GXSF0777" picurl="https://files.catbox.moe/ipkwwx.jpg">GXSF</set>
 		</card>
 		<card>
-			<name>Tergrid s Lantern</name>
+			<name>Tergrid's Lantern</name>
 			<set rarity="Mythic Rare" num="0778" uuid="GXSF0778" picurl="https://files.catbox.moe/b5f7y5.png">GXSF</set>
 		</card>
 		<card>
@@ -4904,10 +4904,6 @@
 		<card>
 			<name>The Peregrine Dynamo</name>
 			<set rarity="Mythic Rare" num="0801" uuid="GXSF0801" picurl="https://files.catbox.moe/ky1dra.jpg">GXSF</set>
-		</card>
-		<card>
-			<name>______</name>
-			<set rarity="Mythic Rare" num="0802" uuid="GXSF0802" picurl="https://files.catbox.moe/exzsrh.png">GXSF</set>
 		</card>
 		<card>
 			<name>The Reality Chip</name>
