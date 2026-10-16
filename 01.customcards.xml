@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <cockatrice_carddatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4" xsi:schemaLocation="https://raw.githubusercontent.com/Cockatrice/Cockatrice/master/doc/carddatabase_v4/cards.xsd">
 	<info>
 		<author>NexGenKirabi (2025-05-14)</author>
@@ -4956,7 +4956,7 @@
 		<card>
 			<name>Thrummingbird</name>
 			<set rarity="Mythic Rare" num="0815" uuid="GXSF0815" picurl="https://files.catbox.moe/qx8sbk.png">GXSF</set>
-		<card>
+			<card>
 		</card>
 			<name>Tiamat</name>
 			<set rarity="Mythic Rare" num="0816" uuid="GXSF0816" picurl="https://files.catbox.moe/p4cq6w.jpg">GXSF</set>
@@ -5452,6 +5452,90 @@
 		<card>
 			<name>Zuran Orb</name>
 			<set rarity="Mythic Rare" num="0939" uuid="GXSF0939" picurl="https://files.catbox.moe/xptgj6.jpg">GXSF</set>
+		</card>
+		<card>
+			<name>Noctis, Heir Apparent</name>
+			<set rarity="Rare" uuid="M5%fc4e" picurl="https://files.catbox.moe/jd47hh.png">M5%</set>
+		</card>
+		<card>
+			<name>Combustion Man</name>
+			<set rarity="Rare" uuid="M5%74bc" picurl="https://files.catbox.moe/bzxr5i.png">M5%</set>
+		</card>
+		<card>
+			<name>Stangg, Echo Warrior</name>
+			<set rarity="Rare" uuid="M5%066c" picurl="https://files.catbox.moe/ts0ww0.png">M5%</set>
+		</card>
+		<card>
+			<name>Yarus, Roar of the Old Gods</name>
+			<set rarity="Rare" uuid="M5%c6f3" picurl="https://files.catbox.moe/5ti9b7.png">M5%</set>
+		</card>
+		<card>
+			<name>Far Fortune, End Boss</name>
+			<set rarity="Rare" uuid="M5%797a" picurl="https://files.catbox.moe/msc9fe.png">M5%</set>
+		</card>
+		<card>
+			<name>Hylda of the Icy Crown</name>
+			<set rarity="Rare" uuid="M5%936e" picurl="https://files.catbox.moe/pjclfh.png">M5%</set>
+		</card>
+		<card>
+			<name>Oko, Thief of Crowns</name>
+			<set rarity="Rare" uuid="M5%49a9" picurl="https://files.catbox.moe/kw3ovg.png">M5%</set>
+		</card>
+		<card>
+			<name>Liliana the Faultless</name>
+			<set rarity="Rare" uuid="M5%8274" picurl="https://files.catbox.moe/i3mobz.png">M5%</set>
+		</card>
+		<card>
+			<name>Noyan Dar Roil Shaper</name>
+			<set rarity="Rare" uuid="M5%d6d7" picurl="https://files.catbox.moe/knwndk.png">M5%</set>
+		</card>
+		<card>
+			<name>Squall, Gunblade Duelist</name>
+			<set rarity="Rare" uuid="M5%6d9d" picurl="https://files.catbox.moe/tj44nb.png">M5%</set>
+		</card>
+		<card>
+			<name>Vishgraz, the Doomhive</name>
+			<set rarity="Rare" uuid="M5%9415" picurl="https://files.catbox.moe/wf8qxd.png">M5%</set>
+		</card>
+		<card>
+			<name>Najeela, the Blade Blossom</name>
+			<set rarity="Rare" uuid="M5%d6d2" picurl="https://files.catbox.moe/7s0a9r.png">M5%</set>
+		</card>
+		<card>
+			<name>Ashling the Pilgrim</name>
+			<set rarity="Rare" uuid="M5%ac50" picurl="https://files.catbox.moe/tqw7tq.png">M5%</set>
+		</card>
+		<card>
+			<name>Lathiel, the Bounteous Dawn</name>
+			<set rarity="Rare" uuid="M5%558a" picurl="https://files.catbox.moe/ht1tdg.png">M5%</set>
+		</card>
+		<card>
+			<name>The Master, Multiplied</name>
+			<set rarity="Rare" uuid="M5%4e81" picurl="https://files.catbox.moe/wxq2ge.png">M5%</set>
+		</card>
+		<card>
+			<name>Toggo, Goblin Weaponsmith</name>
+			<set rarity="Rare" uuid="M5%6c4d" picurl="https://files.catbox.moe/2wm4jn.png">M5%</set>
+		</card>
+		<card>
+			<name>Marchesa, the Black Rose</name>
+			<set rarity="Rare" uuid="M5%6374" picurl="https://files.catbox.moe/emn6qm.png">M5%</set>
+		</card>
+		<card>
+			<name>Ghyrson Starn, Kelermorph</name>
+			<set rarity="Rare" uuid="M5%431d" picurl="https://files.catbox.moe/ud9ahp.png">M5%</set>
+		</card>
+		<card>
+			<name>Captain America, First Avenger</name>
+			<set rarity="Rare" uuid="M5%2cf9" picurl="https://files.catbox.moe/lb22b1.png">M5%</set>
+		</card>
+		<card>
+			<name>Hazezon, Shaper of Sand</name>
+			<set rarity="Rare" uuid="M5%fb5f" picurl="https://files.catbox.moe/8sbfk3.png">M5%</set>
+		</card>
+		<card>
+			<name>Massacre Girl</name>
+			<set rarity="Rare" uuid="M5%472e" picurl="https://files.catbox.moe/ds0smx.png">M5%</set>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
