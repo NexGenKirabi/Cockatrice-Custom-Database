@@ -5537,5 +5537,9 @@
 			<name>Massacre Girl</name>
 			<set rarity="Rare" uuid="M5%472e" picurl="https://files.catbox.moe/ds0smx.png">M5%</set>
 		</card>
+		<card>
+			<name>Art Card #1</name>
+			<set rarity="Rare" uuid="M5%0003" picurl="https://files.catbox.moe/fsn2xa.png">M5%</set>
+		</card>
 	</cards>
 </cockatrice_carddatabase>
